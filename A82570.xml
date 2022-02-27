@@ -1,0 +1,1198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copies of all letters, papers and other transactions between the Commissioners of the Parliament of England, and the Parliament and Committee of Estates of the kingdom of Scotland, from February 10. 1647. until July 8. 1648. Whereby it may appear, what the endeavors of the kingdom of England have been to keep a good understanding, and to preserve the union between the nations: and how the seizing of Barwick and Carlisle by Papists and other notorious delinquents (against whom both kingdoms lately joyned in war as enemies to the happiness and peace of both) was countenanced (if not procured) by the Scotish nation, contrary to several treaties and agreements between the kingdoms of England &amp; Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 125 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82570</idno>
+            <idno type="STC">Wing E1284D</idno>
+            <idno type="STC">Thomason E459_21</idno>
+            <idno type="STC">ESTC R205096</idno>
+            <idno type="EEBO-CITATION">99864535</idno>
+            <idno type="PROQUEST">99864535</idno>
+            <idno type="VID">116765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copies of all letters, papers and other transactions between the Commissioners of the Parliament of England, and the Parliament and Committee of Estates of the kingdom of Scotland, from February 10. 1647. until July 8. 1648. Whereby it may appear, what the endeavors of the kingdom of England have been to keep a good understanding, and to preserve the union between the nations: and how the seizing of Barwick and Carlisle by Papists and other notorious delinquents (against whom both kingdoms lately joyned in war as enemies to the happiness and peace of both) was countenanced (if not procured) by the Scotish nation, contrary to several treaties and agreements between the kingdoms of England &amp; Scotland.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 14. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116765:1" rendition="simple:additions"/>
+            <p>The Copies of all LETTERS, PAPERS And other TRANSACTIONS Between the Commiſsioners of the <hi>Parliament of</hi> England, And the Parliament and Committee of <hi>Eſtates of the Kingdom of</hi> Scotland, From February 10. 1647. until July 8. 1648. <hi>Whereby it may appear,</hi> What the Endeavors of the Kingdom of <hi>England</hi> have been to keep a good Underſtanding, and to preſerve The Union between the Nations: AND How the SEIZING of <hi>Barwick</hi> and <hi>Carliſle</hi> by Papiſts and other notorious Delinquents (againſt whom both Kingdoms lately joyned in War as Enemies to the Happineſs and Peace of both) was countenanced (if not procured) by the <hi>Scotiſh</hi> Nation, contrary to ſeveral Treaties and Agreements between the Kingdoms of England &amp; Scotland.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>Auguſt</hi> 14. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116765:2"/>
+            <pb n="5" facs="tcp:116765:2"/>
+            <head>
+               <hi>The Copy of a Letter from the Commiſſioners of the Parliament of</hi> England, <hi>to the Right Honorable, The Earl of</hi> Londoun, <hi>Lord High Chancellor of</hi> Scotland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E are ſent from both Houſes of the Parliament of <hi>England</hi> Commiſſioners unto the Committee of Eſtates, Convention of Eſtates, and Parlia<g ref="char:EOLhyphen"/>ment of the Kingdom of <hi>Scotland:</hi> And hear<g ref="char:EOLhyphen"/>ing that the Committee of Eſtates do meet this day, we do intreat your Lordſhip to move them on our behalf, That they would be pleaſed to appoint in what way we may impart to them what we have in command from both Houſes, with as much ſpeed as may ſtand with their conveniency; wherein you will do a ſpecial favor unto, My Lord,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>10 Febr. 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servants, <list>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Lord Chancellors Anſwer to the Commiſsioners Letter.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Did communicate your Letter yeſterday to the Committee of Eſtates, who have commanded me to make known to you, That they will take your Deſire into conſideration, and re<g ref="char:EOLhyphen"/>turn an Anſwer ſpeedily: And I ſhall be ready upon all occa<g ref="char:EOLhyphen"/>ſions to teſtifie that I am</p>
+            <closer>
+               <dateline>
+                  <hi>Holyrood houſe,</hi> 
+                  <date>11 Feb. 1648.</date>
+               </dateline>
+               <signed>Your moſt humble Servant, <hi>Loudoun Canc.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:116765:3"/>
+            <head>The copy of a Letter from the Commiſsioners to the Lord Chancellor.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VVE do acknowledge your Lordſhips favor, in preſent<g ref="char:EOLhyphen"/>ing the Deſires in our former Letter unto the Right Honorable, The Committee of Eſtates; And now (after we have reſided here ſo many days) we judge it our duty, both to let their Lordſhips know in general, wherefore we are ſent to them; and to inable our ſelves to give ſome account to Both Houſes of the Parliament of <hi>England,</hi> what we do in purſuance of their Commands: Therefore we do further humbly intreat your Lordſhip, To communicate this incloſed Paper to the Right Honorable Committee of Eſtates, whoſe Reſolutions we ſhall attend concerning the way of our further Proceedings, and ever remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>15 Feb. 1647.</date>
+               </dateline>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble Servants, <hi>William Aſhhurſt. John Birch.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of the firſt Paper ſent by the Commiſsioners of</hi> England <hi>to the Committee of Eſtates of</hi> Scotland, <hi>concerning the <g ref="char:V">Ʋ</g>nion betwixt the Kingdoms.</hi>
+            </head>
+            <p>VVE the Commiſſioners of both Houſes of the Parliament of <hi>England,</hi> have in charge from them to Declare unto the Committee of Eſtates, Convention of Eſtates, and Parlia<g ref="char:EOLhyphen"/>ment of the Kingdom of <hi>Scotland,</hi> That it is their unfeigned Deſire, and ſhall be their conſtant Endeavors, to maintain and preſerve a good Correſpondence, a right Underſtanding, and a perpetual Brotherly Agreement between the Parliament and Kingdom of <hi>England,</hi> and the Parliament and Kingdom of <hi>Scotland:</hi> And that they do ſincerely intend to do all things which (with Honor and Juſtice) lies in their Power, to give Sa<g ref="char:EOLhyphen"/>tisfaction unto their Brethren of <hi>Scotland.</hi> To which end they have ſent us, that all contrary Impreſſions or Apprehenſions (that poſſibly might ariſe) may be removed, and their unfeigned Deſire manifeſted, to continue the happy Conjunction betwixt
+<pb n="7" facs="tcp:116765:3"/>theſe two Kingdoms in the Common Cauſe, and againſt the Common Enemy, wherein they have been ſo long (through the Bleſſing of God) United; it being that whereunto we are deep<g ref="char:EOLhyphen"/>ly obliged by ſo many mutual Engagements; and wherein the glory of God, the Intereſt of all that profeſs the true Re<g ref="char:EOLhyphen"/>formed Religion, and the Tranquility and Peace of both theſe Kingdoms are ſo much concerned: Upon which conſiderations we cannot doubt but that the like Affection and Deſire will be manifeſted by the Parliament of the Kingdom of <hi>Scotland,</hi> your Lordſhips, and all others in Power and Truſt under them.</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>15 <hi>Febr.</hi> 1647.</date>
+               </dateline>
+               <signed>By Command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A copy of the Lord Chancellors Letter to the Right Honorable the Earl of <hi>Notingham,</hi> and the other Commiſſioners.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>I Received your Letter of the 15. with the incloſed Paper, which I communicated to the Committee of Eſtates, who have appointed me to deſire that you would be pleaſed to make known the Commiſſion or Powers you have from the two Houſes of the Parliament of <hi>England;</hi> after which they will take your Deſires ſpeedily into conſideration. This being all I have in command at this time, I reſt,</p>
+            <closer>
+               <dateline>
+                  <date>21 <hi>February,</hi> 1648.</date>
+               </dateline>
+               <salute>My Lord and Gentlemen,</salute>
+               <signed>Your moſt humble Servant, LOUDOUN <hi>Canc'</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:116765:4"/>
+            <head>
+               <hi>A Letter of Credence from the Parliament of</hi> England <hi>to the Parliament of</hi> Scotland, <hi>for the Commiſ<g ref="char:EOLhyphen"/>ſioners hereafter named.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>VVE are commanded by both Houſes of Parliament, to ſignifie unto you, That they have nominated and ap<g ref="char:EOLhyphen"/>pointed <hi>Charls</hi> Earl of <hi>Notingham, Henry</hi> Earl of <hi>Stanford,</hi> and <hi>Bryan Stapilton, Robert Goodwyn, William Aſhhurſt</hi> and Co<g ref="char:EOLhyphen"/>lonel <hi>John Birch,</hi> Eſquires, Committees and Commiſſioners of Both Houſes of the Parliament of <hi>England,</hi> to the Parliament of <hi>Scotland;</hi> and therefore in the name of the two Houſes of Parliament, we are to deſire the Parliament of <hi>Scotland</hi> to give unto them or any two of them, full credit in thoſe things which ſhall be propounded by them, from and on the behalf of Both Houſes of Parliament.</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtminſter,</hi> 
+                  <date>31. <hi>Jan.</hi> 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips very affectionate Friends and Servants, <list>
+                     <item>E. Mancheſter, <hi>Speaker of the Houſe of Peers</hi> pro tempore.</item>
+                     <item>William Lenthal, <hi>Speaker of the Houſe of Commons.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Letter from the Commiſſioners, to the Lord Chan<g ref="char:EOLhyphen"/>cellor of</hi> Scotland.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THe Laſt night we received in a Letter from your Lordſhip, that which (upon Saturday the 19. of this moneth) your Lordſhip was pleaſed to deliver to us by word of mouth from the Committee of Eſtates; in Anſwer whereunto, we did then ſhew unto your Lordſhip our Letters of Credence unto the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi> (whereof becauſe we have a Duplicate, we have for better ſatisfaction ſent you incloſed one of the Origi<g ref="char:EOLhyphen"/>nals) which we doubt not will give ſatisfaction unto the Right Honorable Committee of Eſtates, to whom both Houſes of the Parliament of <hi>England</hi> are ſo deſirous to ſhew all reſpect,
+<pb n="9" facs="tcp:116765:4"/>that (we are confident) they would have ſent to them alſo a par<g ref="char:EOLhyphen"/>ticular Letter of Credence, if it could have been judged neceſſa<g ref="char:EOLhyphen"/>ry or uſual: Beſides, we did then ſhew unto your Lordſhip, that both Houſes of the Parliament of <hi>England</hi> did (upon the 29. of <hi>January</hi> laſt) paſs Inſtructions (which having the force of an Ordinance of Parliament, are both a Commiſsion and Inſtructi<g ref="char:EOLhyphen"/>ons) unto <hi>Charls</hi> Earl of <hi>Notingham, Henry</hi> Earl of <hi>Stanford, Bryan Stapilton, Robert Goodwyn, William Aſhhurſt</hi> and Colonel <hi>John Birch,</hi> Eſquires, Commiſſioners to the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land:</hi> And we did then let your Lordſhip ſee ſo much of our Inſtructions, as did make it appear, that the ſaid Commiſſioners or any two of them, were commanded in the name of both Houſes of the Parliament of <hi>England,</hi> to make Addreſſes not onely unto the Parliament of this Kingdom, but alſo unto the Convention and Committee of Eſtates; and that we had ſuffi<g ref="char:EOLhyphen"/>cient Warrant in thoſe Inſtructions for the Paper of the 15. of <hi>February</hi> laſt (now mentioned in your Lordſhips Letter) where<g ref="char:EOLhyphen"/>in we did declare the unfeined deſires of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to preſerve and continue a good Underſtanding, and a Bro<g ref="char:EOLhyphen"/>therly Agreement betwixt theſe two Kingdoms, who are (by the bleſſing of God) in ſo happy a Conjunction: And now having this opportunity, we do intreat your Lordſhip to preſent from us this further deſire unto the Right Honorable the Committee of Eſtates, That they would entertain no miſapprehenſions of the proceedings of the Parliament of <hi>England,</hi> but if any ſuch ſhould be, that we may be heard, it being the reſolutions of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> to give ſatisfaction to the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> in all juſt and honorable things; which is all wherewith we ſhall at preſent trouble your Lordſhip, but ſhall wait upon the further reſolutions of the Committee, and remain, my Lord,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>22. <hi>Febr.</hi> 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="10" facs="tcp:116765:5"/>
+            <head>
+               <hi>A Copy of the Order of the Committee of Eſtates of</hi> Scotland.</head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>23 <hi>February,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>THe Committee of Eſtates gives Commiſſion to the Lord Chancellor, the Earl of <hi>Lauderdail,</hi> the Earl of <hi>Lane<g ref="char:EOLhyphen"/>rick,</hi> the Lord <hi>Lee,</hi> Sir <hi>Charls Aresken, Archibald Sydſerf,</hi> and <hi>Hue Kenuedy,</hi> or any four of them, there being one of each Eſtate, to hear the Commiſſioners of both Houſes of the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and to receive any Papers from them, and to report the ſame to the Committee.</p>
+            <closer>
+               <signed>
+                  <hi>Extractum.</hi> ARCH: PRIMROSE.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Copy of a ſecond Paper delivered by the Commiſſioners of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>concerning the preſervation of the <g ref="char:V">Ʋ</g>nion.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>21 <hi>February,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas your Lordſhips are now appointed by the Right Honorable Committee of Eſtates, to receive our Ad<g ref="char:EOLhyphen"/>dreſſes to them; We the Commiſſioners of the Parliament of <hi>England,</hi> according to our Paper of the 15. and our Letter to the Lord Chancellor of the 22. of this preſent <hi>February,</hi> do again Expreſs and Declare unto your Lordſhips (in the name of both Houſes of the Parliament of <hi>England</hi>) their unfeigned deſire to preſerve and maintain a good Correſpondence, and perpetual Brotherly Agreement betwixt the Parliament and Kingdom of <hi>England,</hi> and the Parliament and Kingdom of <hi>Scotland.</hi> And now again we deſire, that the Right Honorable the Committee of Eſtates, would not entertain any miſapprehenſions of the proceedings of the Parliament of <hi>England,</hi> or if there be any ſuch, that they would be pleaſed to make them known to us, who are commanded to declare unto the Parliament, Convention and Committee of Eſtates of this Kingdom, the ſincerity of the in<g ref="char:EOLhyphen"/>tentions of both Houſes of the Parliament of <hi>England,</hi> to re<g ref="char:EOLhyphen"/>move whatever of that kinde may have ariſen in, or been made
+<pb n="11" facs="tcp:116765:5"/>upon their Brethren of <hi>Scotland;</hi> and they are reſolved to do whatever is Juſt and Honorable, for the ſatisfaction of this Kingdom.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIE.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>A copy of the Paper concerning the payment of the One hun<g ref="char:EOLhyphen"/>dred thouſand pounds.</head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>28 <hi>February,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Commiſſioners of the Parliament of <hi>England,</hi> are commanded by them, to make known unto the Right Ho<g ref="char:EOLhyphen"/>norable the Committee of Eſtates, Convention of Eſtates, or Parliament of the Kingdom of <hi>Scotland,</hi> That they have taken in<g ref="char:EOLhyphen"/>to ſerious conſideration the payment of the One hundred thou<g ref="char:EOLhyphen"/>ſand pounds, which was due unto our Brethren of <hi>Scotland</hi> about the third of this preſent <hi>February;</hi> and however they could not get the money ready at that day, yet they have taken ſuch courſe as will be effectual, to bring in ſpeedily what moneys is not already brought in (Copies of which reſolutions we do for better ſatisfaction herewith deliver to your Lordſhips) and for ſuch part of the ſaid ſum, as was not paid at the aforeſaid time, both Houſes will allow after the rate of Eight pounds <hi>per centum per annum,</hi> for forbearance for ſo much as ſhall be behinde, until the whole be paid, which we are confident will be very ſpeedily.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="12" facs="tcp:116765:6"/>
+            <head>An Order of both Houſes, concerning the bringing in of the Arrears of the Two hundred thouſand pounds Loans for payment of the Scots Army.</head>
+            <opener>
+               <date>
+                  <hi>Die Sabbathi,</hi> 27 <hi>Januarii,</hi> 1647.</date>
+            </opener>
+            <p>ORdered by the Lords and Commons in Parliament aſſem<g ref="char:EOLhyphen"/>bled, That the Committee at Goldſmiths-Hall be herewith required and enjoyned to take the moſt effectual courſe they can for bringing in from the ſeveral Counties the Arrears of the Two hundred thouſand pounds Loans for payment of the Scots Army, and alſo the Arrears of the Two months Aſſeſſments for the ſaid Army: And that they do prepare Letters to be ſent to the re<g ref="char:EOLhyphen"/>ſpective Committees in the ſeveral Counties, where any of thoſe Arrears are due, to be Signed by the Speakers of both Houſes, to ſatisfie them with the neceſſity of bringing in the ſaid moneys, and to quicken them in the bringing in of the ſame.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Joh: Brown, Cleric. Parliamentorum.</hi>
+                     </item>
+                     <item>
+                        <hi>H: Elſynge, Cler.</hi>
+                     </item>
+                     <item>
+                        <hi>Parl. D. Com.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>
+               <hi>An Order of both Houſes of Parliament, concerning the payment of One hundred thouſand pounds to the Scots, aſſigned to be paid</hi> 3 February, 1647.</head>
+            <opener>
+               <date>
+                  <hi>Die Sabbathi,</hi> 29 <hi>Januarii,</hi> 1647.</date>
+            </opener>
+            <p>THe Lords and Commons in Parliament aſſembled, do De<g ref="char:EOLhyphen"/>clare, That their intention is fully and really to perform with our Brethren of <hi>Scotland</hi> to the uttermoſt of their powers, in the due payment of the One hundred thouſand pounds, aſſign<g ref="char:EOLhyphen"/>ed to be paid to them on the third day of <hi>February</hi> next; and in Order thereunto, do require the Committee at Goldſmiths-Hall to imploy their beſt endeavors, that the Fifty thouſand pounds, part thereof charged on theſe Receipts, may be com<g ref="char:EOLhyphen"/>plyed with, and payed to the perſons named in the Ordinance, appointing the payment of the ſaid Fifty thouſand pounds in courſe, as it is directed by the ſaid Ordinance; And in caſe the
+<pb n="13" facs="tcp:116765:6"/>ſaid ſeveral ſums cannot in time be paid to the ſaid ſeveral per<g ref="char:EOLhyphen"/>ſons, that Intereſt after the rate of Eight <hi>per centum,</hi> be allowed and paid to the ſaid ſeveral perſons during the time the ſaid ſums or any of them ſhall be unpaid: The ſaid Committee is further required from time to time to repreſent any ſuch obſtructions as they ſhall meet with, to the end they may be removed, and due payment of the ſaid Moneys may be made according to the Intentions and Orders of the Houſes. It is further Ordered, That the Intereſt of the aforeſaid whole Hundred thouſand pounds be charged upon the Receipts of Goldſmiths-Hall, and paid by the Committee there from time to time, for ſo long time as the ſame, or any part thereof ſhall be unpaid: It is like<g ref="char:EOLhyphen"/>wiſe Ordered, That power be, and it is hereby given to the Com<g ref="char:EOLhyphen"/>mittee, to Treat with ſuch perſons, Citizens or others, as they ſhall think fit, for the preſent borrowing of the Fifty thouſand pounds, charged upon the Credit and Receipts of Gold<g ref="char:EOLhyphen"/>ſmiths Hall.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Joh: Brown, Cleric. Parliamentorum.</hi>
+                     </item>
+                     <item>
+                        <hi>H: Elſynge, Cler. Parl. D. Com.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>An Order of the Houſe of Commons, concerning the bringing in of the Arrears of the Loans, and the Arrears of the Aſ<g ref="char:EOLhyphen"/>ſeſſments for the Scots Army.</head>
+            <opener>
+               <date>
+                  <hi>Die Sabbathi,</hi> 29 <hi>Januarii,</hi> 1647.</date>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That the ſeveral Members of this Houſe, that are imployed in the ſeveral Counties for bringing in the Six moneths Aſſeſſments of Sixty thouſand pounds <hi>per menſem,</hi> be likewiſe required to imploy their beſt endeavors for the ſpeedy Leavying and bringing in the Arrears of the Loans of the Scots Army, and the Arrears for the Aſſeſſments of the Scots Army, according to the Letters to be written by the Speakers to that purpoſe.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb n="14" facs="tcp:116765:7"/>
+            <head>
+               <hi>A copy of the Paper concerning the Scotiſh Army in</hi> Ireland.</head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>28. <hi>February,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Commiſſioners of the Parliament of <hi>England,</hi> have it in charge to make known unto the Right Hono<g ref="char:EOLhyphen"/>rable, The Parliament, Convention, or Committee of Eſtates of the Kingdom of <hi>Scotland,</hi> That however the great troubles wherewith it hath pleaſed God to exerciſe the Kingdom of <hi>England,</hi> and their great neceſſities and occaſions for money incident thereunto, have hitherto diſinabled them to make thoſe Proviſions for the Scotiſh Army in <hi>Ireland</hi> that they intended and deſired, yet they are fully reſolved to give them all the ſa<g ref="char:EOLhyphen"/>tisfaction that lies in their power: And therefore we are com<g ref="char:EOLhyphen"/>manded in the name of both Houſes, to offer unto the Parlia<g ref="char:EOLhyphen"/>ment, Convention, or Committee of Eſtates of the Kingdom of <hi>Scotland,</hi> That both Houſes of the Parliament of <hi>England</hi> will, if it be deſired, ſend Commiſſioners into <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> in the Kingdom of <hi>Ireland,</hi> to ſtate the Accompts of the ſaid Army; or if your Lordſhips ſhall rather deſire to agree by way of general eſtimate for the whole, they will conſent to that way; and when the ſum ſhall be mutually agreed on, both Houſes of the Parliament of <hi>England</hi> will endeavor to the utmoſt of their power and ability, to give that Army all juſt ſatisfaction.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England.</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>For the Right Honorable the Earl of</hi> Loudoun, <hi>Lord High Chan<g ref="char:EOLhyphen"/>cellor of</hi> Scotland, <hi>and Preſident of the Parliament.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>VVE have already made known unto the Right Honorable the Committee of Eſtates of this Kingdom, That we were ſent by both Houſes of the Parliament of <hi>England,</hi> unto the Parliament, Convention, and Committee of Eſtates of this Kingdom of <hi>Scotland,</hi> to continue and preſerve a good corre<g ref="char:EOLhyphen"/>ſpondence
+<pb n="15" facs="tcp:116765:7"/>and Brotherly Agreement betwixt both Kingdoms; in order whereunto, we have-already given to the Committee of Eſtates our Letters of Credence, and ſeveral other Letters and Pa<g ref="char:EOLhyphen"/>pers, which if they be regularly (according to your form of proceedings) before the Right Honorable the Parliament of <hi>Scotland</hi> (now ſitting) we ſhall wait for their reſolutions there<g ref="char:EOLhyphen"/>upon; but if they be not, we do deſire your Lordſhip to move the Parliament, that they would be pleaſed to direct the way of our Addreſſes to them, wherein you will do a favor unto,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>4 <hi>Martii,</hi> 1647.</date>
+               </dateline>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of a Letter to the Lord Chancellor of the</hi> 10. <hi>of</hi> March, 1647.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>VVE deſire your Lordſhip to move the Honorable, The Parliament of <hi>Scotland,</hi> to take our Letter of the 4. of this inſtant <hi>March</hi> into conſideration; and that your Lord<g ref="char:EOLhyphen"/>ſhip would procure their Anſwer therein to be returned unto,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham. Stanford.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of the Lord Chancellors Letter of the</hi> 11. <hi>of</hi> March, 1647.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>YEſterday I received your Letter, which I did immediately communicate to the Parliament; and in obedience to their
+<pb n="16" facs="tcp:116765:8"/>commands, I do return unto your Lordſhips their Anſwer here incloſed, and ſo reſt, My Lords and Gentlemen,</p>
+            <closer>
+               <signed>Your moſt humble Servant, Loudoun <hi>Canc. Preſident of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>
+               <hi>A copy of an Order of the Parliament of</hi> Scotland, <hi>of the</hi> 10. <hi>of</hi> March, 1647.</head>
+            <p>THe Eſtates of Parliament having received and conſidered certain Papers and miſſive Letters from the Commiſſio<g ref="char:EOLhyphen"/>ners of the Honorable Houſes of the Parliament of <hi>England,</hi> They did nominate and appoint ſome of every Eſtate to be a Committee for taking the ſame Papers and Miſſives into their conſideration, to whom the ſaid Commiſſioners may make their Addreſſes, concerning any thing they have to offer to the Par<g ref="char:EOLhyphen"/>liament; and deſire the Lord High Chancellor, Preſident of the Parliament, to return this Anſwer.</p>
+            <closer/>
+            <postscript>
+               <p>Extr. out of the Records of Parliament,</p>
+               <closer>
+                  <signed>by me Sir <hi>Alex. Gibſon</hi> of <hi>Dury</hi> Knight, Clerk of His Highneſs Regiſters Councel and Rolls.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of the Letter of the</hi> 14 <hi>of March to the Lord Chan<g ref="char:EOLhyphen"/>cellor, concerning</hi> Barwick.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THis laſt night we did receive a Letter from the Town of <hi>Barwick,</hi> (whereof the incloſed is a Copy) with a further aſſurance from the Meſſenger, That they had good Information from ſeveral parts, of a real Deſign in the Malignants to ſurprize the Town at this intended Horſe-Race: And that the Major, and other the Magiſtrates of the Town (beſides the forbidding of the Horſe-Race) onely appointed a Watch of Townſmen for the preventing of ſuch a miſchief; We thought it our part, ſpeedily to acquaint your Lordſhip with the truth of this buſineſs, to prevent all Miſreports and Miſtakes that might happen upon
+<pb n="17" facs="tcp:116765:8"/>it; and intreat your Lordſhip to communicate the ſame to the Honorable, The Parliament of <hi>Scotland;</hi> with this further, That however the Delinquents are very induſtrious to interrupt the happy Union betwixt the Kingdoms, as that which ſtands moſt with their Intereſt; yet we doubt not but it will have this effect, to make them both more careful and diligent to continue and preſerve it: And as Both Houſes of the Parliament of <hi>England</hi> are reſolved to keep the Treaties concerning this Town, and all other Treaties betwixt both Kingdoms inviolable, ſo we have given ſuch Directions to the Town of <hi>Barwick</hi> upon this occa<g ref="char:EOLhyphen"/>ſion, as may manifeſt the like Reſolutions in, My Lord,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>14 <hi>Martii,</hi> 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Stanford.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of the Letter to the Lord Chancellor,</hi> 15 <hi>Martii,</hi> 1647.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>VVE have in charge from Both Houſes of the Parliament of <hi>England,</hi> to communicate unto the Honorable, The Parliament of <hi>Scotland,</hi> their Anſwer (herewith ſent you) unto ſome former Papers of the Commiſsioners of this Kingdom, touching the Diſpoſing of the Perſon of the King: Upon conſi<g ref="char:EOLhyphen"/>deration whereof, We doubt not but their Proceedings and In<g ref="char:EOLhyphen"/>tentions will be cleared from ſome Miſtakes which we perceive are apprehended by many in this Kingdom. Thus deſiring that your Lordſhip will take the firſt opportunity to preſent it, We ſhall onely adde, that we are, My Lord,</p>
+            <closer>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Stanford.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb n="18" facs="tcp:116765:9"/>
+            <head>
+               <hi>A copy of the Paper given in to the Parliament of</hi> Scotland, <hi>con<g ref="char:EOLhyphen"/>cerning the Demand of Captain</hi> Wogan.</head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>21 <hi>Martii,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Commiſſioners of Both Houſes of the Parliament of <hi>England,</hi> are commanded to make known unto the Parliament of <hi>Scotland,</hi> That they have notice from Sir <hi>Thomas Fairfax</hi> their General, That one Captain <hi>Wogan</hi> (an Engliſh man) and his Troop, who being of the Supernumerary Forces, was by the Reſolutions of Both Houſes of Parliament, and the Order of the General to be disbanded; but he refuſing ſo to do, marched by a counterfeit Paſs from the county of <hi>Worce<g ref="char:EOLhyphen"/>ſter</hi> in the Kingdom of <hi>England,</hi> into the North; and that from thence they are come in a Military poſture, with Arms and Co<g ref="char:EOLhyphen"/>lours into the Kingdom of <hi>Scotland,</hi> which was altogether with<g ref="char:EOLhyphen"/>out the allowance, order or privity of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> And they are likewiſe informed, That others who are principal Engliſh Delinquents, and have been in Arms againſt the Parliament, do harbor in this Kingdom; All which is againſt the large Treaty betwixt the Kingdoms of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> the Act of Pacification and Oblivion, paſſed <hi>Anno</hi> 17 <hi>Ca<g ref="char:EOLhyphen"/>roli Regis.</hi> The ſaid Captain <hi>Wogan</hi> being ſeen in <hi>Edenburgh</hi> by ſeveral of our Servants yeſterday and divers days before; we do in the name of both Houſes of the Parliament of <hi>England,</hi> demand of the Parliament of <hi>Scotland,</hi> that the ſaid Captain <hi>Wogan,</hi> with his Officers and Soldiers (that are Engliſh men) to<g ref="char:EOLhyphen"/>gether with their Horſes and Arms, be ſeized, ſecured and de<g ref="char:EOLhyphen"/>livered to us, to be diſpoſed of as both Houſes of the Parliament of <hi>England</hi> have or ſhall appoint: And we cannot doubt but upon diſcovery of any other Engliſh Forces, or any Engliſh men who have been Officers or Reformades, and ſerved the King againſt the Parliament, that ſhall be received or harbored in this Kingdom, you will do the like juſtice to the Kingdom of <hi>England</hi> upon our demanding of them.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="19" facs="tcp:116765:9"/>
+            <head>
+               <hi>A copy of the Letter to the Lord Chancellor, of the</hi> 23. <hi>of</hi> March, 1647.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>VVE are commanded by both Houſes of the Parliament of <hi>England,</hi> to give in the Declaration herewith, ſent to the Parliament of <hi>Scotland;</hi> we do therefore intreat your Lordſhip to communicate it to them: We are, my Lord,</p>
+            <closer>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham. Stanford.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The Declaration herein mentioned, was from both Houſes, of the 4. of <hi>March,</hi> 1647. concerning the Papers of the Scots Commiſſioners, entituled, <hi>The Anſwer of the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Kingdom of</hi> Scotland <hi>to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, upon the New Propoſitions of Peace, and the Four Bills to be ſent to His Majeſty:</hi> And concerning the proceedings of the ſaid Commiſſioners in the Iſle of <hi>Wight.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of the Paper delivered in to the Parliament of</hi> Scotland, <hi>preſſing for an Anſwer to former Papers.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>27 <hi>Martii,</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE have by the command, and in the Name of both Hou<g ref="char:EOLhyphen"/>ſes of the Parliament of <hi>England,</hi> ſeveral times made known unto the Parliament and Committee of Eſtates of the Kingdom of <hi>Scotland,</hi> that we were ſent hither to keep a good Correſpondence betwixt both Kingdoms; And that it is the Reſolution of both Houſes of the Parliament of <hi>England</hi> on their part, to continue and preſerve the Union and Brotherly Agreement betwixt them, and to remove all miſapprehenſions to the contrary (if any ſuch ſhould be) and in order thereunto, have delivered in to your Lordſhips ſeveral Papers: But although we have been at <hi>Edenburgh</hi> ſince the Eighth of <hi>February</hi> laſt, yet we have not received a particular Anſwer to any of them,
+<pb n="20" facs="tcp:116765:10"/>whereof we are (and Both Houſes of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have reaſon to be) very ſenſible. At this time we being re<g ref="char:EOLhyphen"/>quired to return an Accompt to Both Houſes of the Parliament of <hi>England,</hi> concerning the Buſineſs of Captain <hi>Wogan</hi> and his Troop, muſt earneſtly preſs your Lordſhips to give us your An<g ref="char:EOLhyphen"/>ſwer to our Paper concerning him of the 21. of this inſtant <hi>March;</hi> wherein we do not doubt but your Lordſhips will comply with the Deſires of Both Houſes, it being conform to, and in proſecution of the Large Treaty betwixt Both King<g ref="char:EOLhyphen"/>doms, and the Act of Pacification and Oblivion paſſed by the Parliaments of Both Kingdoms.</p>
+            <closer>
+               <signed>By Command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered in to the Parliament of</hi> Scotland, <hi>dated</hi> Edenburgh, 31 Martii, 1648. <hi>Concerning the former Demand of Captain</hi> Wogan, <hi>and a further Demand of Sir</hi> Philip Muſgrave <hi>and Sir</hi> Tho: Glemham.</head>
+            <p>VVHereas Both Kingdoms of <hi>England</hi> and <hi>Scotland</hi> have paſſed their Publique Faith in the Act of Pacification and Oblivion of 17 <hi>Caroli Regis,</hi> to concur in the repreſſing of thoſe that ſhall riſe in Arms, or make War in any of the King<g ref="char:EOLhyphen"/>doms of <hi>England, Scotland</hi> or <hi>Ireland,</hi> without the conſent of the Parliament of that Kingdom to which they do belong; and that ſuch ſhall be held, reputed and demanded as Traytors to the Eſtates whereof they are Subjects: And that no perſon ſen<g ref="char:EOLhyphen"/>tenced by the Parliament of either Nation, as Incendiaries be<g ref="char:EOLhyphen"/>twixt the Nations, ſhall have ſhelter or protection in any other of His Majeſties Dominions. And whereas by the ſaid Act, if any Engliſh man who hath committed offences againſt that Kingdom ſhall remove into <hi>Scotland,</hi> he ſhall (at the deſire of the Parliament of <hi>England</hi>) be remanded to abide his tryal in that Kingdom where he committed the offence. We having in
+<pb n="21" facs="tcp:116765:10"/>charge to demand all Engliſh men that we ſhall diſcover to be in this Kingdom of <hi>Scotland,</hi> who have been in Arms againſt the Parliament and Kingdom of <hi>England:</hi> And being certainly in<g ref="char:EOLhyphen"/>formed, That there is now many ſuch perſons in this City of <hi>Edenburgh</hi> (Incendiaries betwixt the Nations) and particularly Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Thomas Glemham,</hi> We do there<g ref="char:EOLhyphen"/>fore in the name of Both Houſes of the Parliament of <hi>England,</hi> demand, That the ſaid Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Thomas Glemham</hi> be delivered to us, to be diſpoſed of as Both Houſes of the Parliament of <hi>England</hi> have or ſhall appoint (wherein as alſo in the buſineſs of Captain <hi>Wogan</hi> and his Troop, repre<g ref="char:EOLhyphen"/>ſented to your Lordſhips in our Papers of the 21. and 27. of this inſtant <hi>March,</hi> who were in Arms in <hi>Weſtmerland</hi> and <hi>Cumberland,</hi> and in ſome other parts of the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and afterwards in this Kingdom, without the conſent of the Parliament of <hi>England</hi>) the publique Faith of this Kingdom being ſo deeply ingaged, We cannot doubt of a ſpeedy and ſa<g ref="char:EOLhyphen"/>tisfactory anſwer.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A copy of the Lord Chancellors Letter to the Commiſſioners.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>I Did communicate your Letter and Paper of the laſt of <hi>March</hi> to the Parliament, who have remitted the ſame to a Com<g ref="char:EOLhyphen"/>mittee; who were appointed to conſider of your former Papers; And the Parliament is reſolved to give their Anſwer to your Lordſhips ſome time this week: which by their Warrant and Command is ſignified to your Lordſhips, from</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>3 <hi>April,</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant, Loudoun <hi>Canc' Preſident of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="22" facs="tcp:116765:11"/>
+            <head>A copy of the Lord Chancellors Letter to the Commiſſioners.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THe Committee to whom your Lordſhips Deſires and Papers were referred, having this day made their Report to the Parliament, they have commanded me to ſhew your Lordſhips, That they have taken the ſame into conſideration, and have re<g ref="char:EOLhyphen"/>ſolved to give your Lordſhips their Anſwer in the beginning of the next week, as will appear by their Order, which is herewith ſent to you, from</p>
+            <closer>
+               <dateline>
+                  <date>8 <hi>April,</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble Servant, Loudoun <hi>Canc' Preſident of Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>
+               <hi>A copy of the Order of the Parliament of</hi> Scotland.</head>
+            <p>AT <hi>Edenburgh</hi> the Eighth day of <hi>April,</hi> the year of God, 1648. The Eſtates of Parliament recommends to the Lord Chancellor, Preſident of Parliament, to make known to the Commiſſioners from the Parliament of <hi>England,</hi> That the opi<g ref="char:EOLhyphen"/>nion of the Committee of an Anſwer to be returned to the Let<g ref="char:EOLhyphen"/>ters and Papers given in by them, was this day, being the laſt day of the week, preſented and read in Parliament; But according to the order kept in this Parliament, the Anſwer is taken to the conſideration of the ſeveral Eſtates till the beginning of the next week; at which time Anſwer will be given to them.</p>
+            <closer/>
+            <postscript>
+               <p>Extr. forth of the Records of Parliament</p>
+               <closer>
+                  <signed>by me Sir <hi>Alex: Gibſon</hi> of <hi>Dury</hi> Knight, Clerk of His Majeſties Regiſters Councel and Rolls, under my Sign and Subſcript Manual, <hi>Alex: Gibſon</hi> Cleric. Regiſtr.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="memorandum">
+            <pb n="23" facs="tcp:116765:11"/>
+            <head>
+               <hi>A copy of the Paper delivered in to the Parliament of</hi> Scotland, <hi>concerning the former demands of Captain</hi> Wogan, <hi>Sir</hi> Philip Muſgrave, <hi>Sir</hi> Tho: Glemham, <hi>and a fur<g ref="char:EOLhyphen"/>ther demand of Col:</hi> George Wray.</head>
+            <opener>
+               <dateline>Edenburgh, <date>14 April, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE had notice from the Honorable, the Parliament of <hi>Scotland,</hi> that we ſhould have an Anſwer the laſt week to the ſeveral Papers communicated to them from us; and ſince that time, that we ſhould have an Anſwer in the beginning of this week; but we not receiving any hitherto, think it our duty in buſineſſes wherein we have ſo ſtrict a charge, and which do ſo much concern the Peace of both Kingdoms, to preſs your Lord<g ref="char:EOLhyphen"/>ſhips again for a ſpeedy Anſwer, eſpecially to our demands of Captain <hi>Wogan</hi> and his Troop, and Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Tho: Glemham;</hi> the rather becauſe we do ſtill obſerve a great concourſe of Engliſh Delinquents to this Kingdom, who are received and harbored here; and amongſt them ſome Papiſts that have been in Arms, who were all (by former Propoſitions to the King agreed to by both Kingdoms) excepted from par<g ref="char:EOLhyphen"/>don; and particularly we know, that one Colonel <hi>George Wray,</hi> who is a Papiſt, and was a Colonel in the War againſt the Parlia<g ref="char:EOLhyphen"/>ment, hath been for ſome time of late (and we believe now is) in this City of <hi>Edenburgh:</hi> We do therefore upon the grounds laid down in our former Papers (which we hope do appear very clear to your Lordſhips) demand of the Parliament of <hi>Scotland,</hi> in the name of both Houſes of the Parliament of <hi>England,</hi> That the ſaid Colonel <hi>George Wray</hi> be likewiſe delivered to us, to be diſpoſed of as both Houſes of the Parliament of <hi>England</hi> ſhall direct, and that they may no longer have ſhelter and protection in this Kingdom.</p>
+            <closer>
+               <signed>By command of the Commiſsioners of the Parliament of <hi>England,</hi> JOHN SQUIE.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb n="24" facs="tcp:116765:12"/>
+            <head>
+               <hi>A copy of a Paper from the Lord Chancellor, and others, of the</hi> 15. <hi>of</hi> April, 1648. <hi>Delivered by them to the Engliſh Commiſſioners.</hi>
+            </head>
+            <p>VVE do according to the Warrant and Command of the Parliament, deliver to your Lordſhips their Anſwer to the Deſires and Papers preſented from you to them, and ſhall report what further your Lordſhips ſhall be pleaſed to move to the Parliament.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Loudoun.</hi>
+                     </item>
+                     <item>
+                        <hi>Fochgert.</hi>
+                     </item>
+                     <item>
+                        <hi>Lotherdail.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Jenies.</hi>
+                     </item>
+                     <item>
+                        <hi>Lanerick.</hi>
+                     </item>
+                     <item>
+                        <hi>Arch: Sydſerf.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper of the Parliament of</hi> Scotland, <hi>in Anſwer to ſeveral Papers delivered by the Engliſh Commiſſioners, dated at</hi> Edenburgh, 12 April, 1648.</head>
+            <p>THe Eſtate of Parliament having peruſed and conſidered the ſeveral Papers given in to them, and to the Committee of Eſtates by the Commiſſioners of Both Houſes of the Parliament of <hi>England,</hi> ſince their laſt coming to this Kingdom, do finde at the arrival of the ſaid Commiſſioners, and upon their firſt Ad<g ref="char:EOLhyphen"/>dreſs to the Committee of Eſtates; Although they ſhew no Commiſſion, nor had any Credential Letters directed to the Committee, yet the Committee of Eſtates did appoint ſome of their number to meet with them, who did accordingly receive from them what they then thought fit to offer: And when they made their Addreſs to the Parliament, The very days wherein their Letters were given to the Lord Chancellor (to whom they ſent the ſame) they were inſtantly read in Parliament, and a Com<g ref="char:EOLhyphen"/>mittee appointed to take in conſideration what was offered by them, that upon report thereof an anſwer might be returned by the Parliament.</p>
+            <p>Whereas your Lordſhips are pleaſed in the name of the Honorable Houſes of the Parliament of <hi>England,</hi> to expreſs their deſires to preſerve a good underſtanding and Brotherly Agree<g ref="char:EOLhyphen"/>ment betwixt the two Kingdoms; The Eſtates of Parliament do
+<pb n="25" facs="tcp:116765:12"/>return this Anſwer, That as the actions of this Kingdom have been real proofs of their deſires and willingneſs to entertain a good Correſpondence and Amity betwixt the two Nations, ſo they are ſtill reſolved to keep inviolably on their part the happy Union to which both kingdoms are Solemnly engaged by the Covenant and Treaties; Yet they have thought fit to let them know, That this kingdom hath reaſon to be very ſenſible that the neceſſary and juſt deſires given in by their Commiſſioners by Warrant of the Parliament and their Committees, to the Ho<g ref="char:EOLhyphen"/>norable Houſes of the Parliament of <hi>England,</hi> concerning Re<g ref="char:EOLhyphen"/>ligion, the Kings Majeſty, and Intereſt of this kingdom, have had no ſatisfactory Anſwer as yet.</p>
+            <p>And for the particular deſires concerning Captain <hi>Wogan</hi> and his Troop, alleaged to be in this kingdom, and demanded in the Paper of the 21. of <hi>March,</hi> upon the Act of Pacification and Oblivion in the large Treaty in <hi>Anno</hi> 1641. as Delinquents, and who have been in Arms againſt the Parliament of <hi>England;</hi> And the Paper of the 31. of <hi>March,</hi> demanding the aforeſaid Captain <hi>Wogan,</hi> Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Thomas Glemham,</hi> to be delivered upon the ſame Act of Pacification, as thoſe who have riſen in Arms and made War againſt the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> If your Lordſhips will be pleaſed to peruſe that Treaty, and Act of Pacification to which the Papers given in do relate, It will clearly appear, That none can be remanded or delivered by this kingdom, but ſuch onely of the Engliſh Nation who have in<g ref="char:EOLhyphen"/>cenſed the King of <hi>Scotland</hi> againſt the kingdom of <hi>England,</hi> all other criminals being referred to the Laws.</p>
+            <p>And the Eſtates of this kingdom are confident that your Lord<g ref="char:EOLhyphen"/>ſhips will not miſunderſtand the not returning of an Anſwer ſooner to your Papers and Deſires, ſince the many other preſſing and weighty Affairs of this kingdom, which have ſtill been before the Parliament ſince your coming, hath been the onely Reaſon of this delay.</p>
+            <p>The Eſtates of Parliament give warrant and command to the Committee of Twenty four, to deliver to the Engliſh Commiſſi<g ref="char:EOLhyphen"/>oners the Anſwer this day paſt in Parliament, and to appoint ſome of their number to meet with the Engliſh Commiſſioners,
+<pb n="26" facs="tcp:116765:13"/>and to aſſert the Parliaments anſwer, and to report what fur<g ref="char:EOLhyphen"/>ther the Commiſſioners of the Honorable Houſes ſhall offer to the conſideration of the Parliament.</p>
+            <closer/>
+            <postscript>
+               <p>Extracted out of the Records of Parliament</p>
+               <closer>
+                  <signed>by me Sir <hi>Alex: Gibſon</hi> of <hi>Dury</hi> Knight, Clerk of His Ma<g ref="char:EOLhyphen"/>jeſties Regiſters Councels and Rolls, under my Sign and Subſcription Manual, <hi>Alex: Gibſon</hi> Cleric. Regiſt.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Reply of the Engliſh Commiſsioners of</hi> April 19. <hi>to the Par<g ref="char:EOLhyphen"/>liament of</hi> Scotland, <hi>in Anſwer to theirs of the</hi> 12<hi rend="sup">th</hi>
+            </head>
+            <opener>
+               <dateline>Edenburgh, <date>April 19. 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE have received your Lordſhips Anſwer of the 12. of this inſtant <hi>April,</hi> wherein we do not finde any thing of thoſe Papers we delivered, in order to the giving ſatisfaction un<g ref="char:EOLhyphen"/>to this Kingdom, concerning ſuch moneys as are due to them, and to the Scotiſh Army in <hi>Ireland,</hi> from the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> wherein both Houſes of the Parliament of <hi>England</hi> are moſt willing to do any thing in their power, for the real per<g ref="char:EOLhyphen"/>formance of their Ingagements: For that which your Lordſhips mention concerning our Commiſsion and Credential Letters, we muſt affirm, That although our Letters of Credence were onely directed to the Honorable Parliament of <hi>Scotland,</hi> yet we did ſhew unto the Right Honorable the Lord Chancellor, who was ſent to us from the Honorable the Committee of Eſtates, that by our Inſtructions we had Commiſsion and Command to make Addreſſes unto that Committee; however, we do gladly take notice of your Lordſhips readineſs to continue the good corre<g ref="char:EOLhyphen"/>ſpendence betwixt both Kingdoms, and the Declaration of your Reſolutions to keep inviolably on your part the happy Union, to which both Kingdoms are ſolemnly engaged by the Covenant and Treaties; and as we have ſeveral times already, ſo now again we do in the name of both Houſes of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> declare, That it is their Reſolutions to keep the Union in<g ref="char:EOLhyphen"/>violably
+<pb n="27" facs="tcp:116765:13"/>on their part, and we ſhall hope that both Kingdoms (having to their former Ingagements added theſe mutual Decla<g ref="char:EOLhyphen"/>rations of their real intentions therein) will be careful not to do any thing which may increaſe jealouſies, or provoke one ano<g ref="char:EOLhyphen"/>ther to break the Union, which is ſo much hoped, deſired and en<g ref="char:EOLhyphen"/>deavored by thoſe that are Enemies to both Kingdoms.</p>
+            <p>For thoſe deſires your Lordſhips mention, given in by your Commiſsioners to the Parliament of <hi>England,</hi> we are conſident they will do therein what ſhall be fit, to manifeſt their deſire of a Brotherly Union with the Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>For the Anſwer your Lordſhips were pleaſed to give to our demands of Captain <hi>Wogan</hi> and his Troop, Sir <hi>Philip Muſgrave,</hi> and Sir <hi>Thomas Glemham,</hi> if it were onely according to your Lordſhips Papers, that by the Act of Pacification and Oblivion they were ſuch as were to be referred to their Tryal by Law; yet that (as we conceive) doth imply a ground and juſtification of our demands; for they being in this kingdom, we cannot bring them to Tryal, ſeeing we cannot purſue them hither by force, until the Parliament or Eſtates in this kingdom do deliver them into our hands, which was the ſum of our Demands; but it is moſt clear without diſpute (in one of the laſt clauſes in the ſaid Act, That no perſons who ſhall be cenſured by the Parliament of <hi>England</hi> as theſe are) ſhould have ſhelter or protection in the kingdom of <hi>Scotland;</hi> and if your Lordſhips had but proceeded at preſent to ſuch a Reſolution, it might poſſibly have prevented affronts and threatnings to us from ſome Engliſhmen here, who have been in Arms againſt the Parliaments of both kingdoms: However, we do not now intend to trouble your Lordſhips with any thing of our own particular concernments, we do further deſire your Lordſhips to peruſe that clauſe in the ſaid Act, where<g ref="char:EOLhyphen"/>in it is provided, That in caſe any of the Subjects of any of the kingdoms ſhall riſe in Arms or make War againſt any other of the kingdoms and Subjects thereof, without conſent of the Par<g ref="char:EOLhyphen"/>liament of that kingdom whereof they are Subjects, or upon which they do depend, that they ſhall be held, reputed and de<g ref="char:EOLhyphen"/>mained as Traytors to the Eſtates whereof they are Subjects; and that both the kingdoms in that caſe be bound to concur in
+<pb n="28" facs="tcp:116765:14"/>the repreſsing of thoſe that ſhall happen to ariſe in Arms, or make War, without conſent of their own Parliament; from whence we do obſerve, That if any of the Subjects of the king<g ref="char:EOLhyphen"/>dom of <hi>England</hi> be in Arms without the conſent of the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> as Captain <hi>Wogan</hi> and his Troop were in <hi>Cumberland</hi> and other parts of <hi>England,</hi> and Sir <hi>Philip Muſ<g ref="char:EOLhyphen"/>grave,</hi> Sir <hi>Thomas Glembam,</hi> and Colonel <hi>George Wray</hi> are, having been Commanders in the War againſt the Parliament of <hi>England,</hi> and not pardoned by them, although they ſhould not make War againſt any other of the kingdoms or Subjects there<g ref="char:EOLhyphen"/>of, yet both kingdoms are bound to repreſs them; upon which, and all the aboveſaid grounds, we do inſiſt upon our former Pa<g ref="char:EOLhyphen"/>pers, That the aforeſaid perſons being now in this kingdom, may (by your Lordſhips power and authority) be delivered to us.</p>
+            <closer>
+               <signed>By command of the Commiſsioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered in to the Parliament of</hi> Scotland, April 29. <hi>Concerning their former demands, and the further demand of Sir</hi> Marmaduke Langdale <hi>and Sir</hi> Lewis Dives.</head>
+            <opener>
+               <dateline>Edenburgh, <date>April 29. 1648.</date>
+               </dateline>
+            </opener>
+            <p>WE have by ſeveral Papers (upon grounds of the Trea<g ref="char:EOLhyphen"/>ties betwixt the Kingdoms of <hi>England</hi> and <hi>Scotland</hi>) demanded Captain <hi>Wogan</hi> and his Troop, Sir <hi>Philip Muſgrave,</hi> Sir <hi>Thomas Glemham,</hi> and Colonel <hi>George Wray,</hi> to be deliver<g ref="char:EOLhyphen"/>ed to us, that they might be diſpoſed of as ſhould be directed by the Parliament of <hi>England;</hi> and although unto that Paper concerning Colonel <hi>George Wray</hi> (a Papiſt in Arms) we have not heard any thing, yet we have received your Lordſhips An<g ref="char:EOLhyphen"/>ſwer as to the other two, wherein finding no ſatisfaction, we did by our Paper of the 19. inſtant, inſiſt upon our former De<g ref="char:EOLhyphen"/>mands; yet the ſaid perſons not being hitherto delivered to us, but rather on the contrary, ſtill injoying freedom and ſhelter in
+<pb n="29" facs="tcp:116765:14"/>this Kingdom, and (as we are credibly informed) ſome of them have lately had frequent meetings in this City with Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale,</hi> Sir <hi>Lewis Dives,</hi> and other great Engliſh De<g ref="char:EOLhyphen"/>linquents, which might be much to the prejudice of the Peace and Good of both kingdoms; and the ſaid Sir <hi>Marmaduke Langdale,</hi> and Sir <hi>Lewis Dives,</hi> being perſons excepted in the Propoſitions agreed upon by both kingdoms, and joyntly ſent to the King for the ſetling of a ſafe and well grounded Peace; We do therefore Demand, That the ſaid Captain <hi>Wogan</hi> and his Troop, Sir <hi>Philip Muſgrave,</hi> Sir <hi>Thomas Glemham,</hi> and Colo<g ref="char:EOLhyphen"/>nel <hi>George Wray,</hi> the ſaid Sir <hi>Marmaduke Langdale,</hi> and Sir <hi>Lewis Dives,</hi> may (by your Lordſhips power and authority) be Apprehended and Delivered to us; which if your Lordſhips ſhall not think fit to do, but that they ſhall have freedom and ſhelter in this kingdom, The kingdom of <hi>England</hi> and our ſelves are free from all the evils and ill conſequences (that upon their con<g ref="char:EOLhyphen"/>trivances and practiſes) may ariſe or happen to either or both kingdoms.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered in to the Parliament of</hi> Scotland, <hi>May</hi> 2. <hi>concerning the ſeizing of</hi> Barwick.</head>
+            <opener>
+               <dateline>Edenburgh, <date>May 2. 1648.</date>
+               </dateline>
+            </opener>
+            <p>ALthough we had Information long ſince, That ſome De<g ref="char:EOLhyphen"/>linquents had a Deſign to ſeize the Town of <hi>Barwick</hi> up<g ref="char:EOLhyphen"/>on Tweed; wherefore we gave your Lordſhips notice by our Letter of the 14 of <hi>March</hi> laſt (at which time we had the like Information concerning the City of <hi>Carliſle</hi>) yet the kingdom of <hi>England</hi> and our ſelves were careful in all things to preſerve the Treaties betwixt both kingdoms, and to avoid every thing that might have the leaſt colour of a Breach, or adminiſter oc<g ref="char:EOLhyphen"/>caſions of Jealouſies betwixt them: yet obſerving the great flocking together of Engliſh Delinquents in this City, We could
+<pb n="30" facs="tcp:116765:15"/>not but apprehend, That they had ſome deſperate Deſign againſt the Parliament and kingdom of <hi>England:</hi> And now after we have long expected your Lordſhips Reſolutions upon our ſeveral Demands of ſome principal men amongſt thoſe Delinquents, We are informed, That ſome of them, with divers other Engliſh Delinquents, that went from this City of <hi>Edenburgh,</hi> and forded the River Tweed, did upon Friday laſt the 28 of <hi>April,</hi> the ſame day return back over the Bridge, and in an Hoſtile way ſeized upon the ſaid Town of <hi>Barwick,</hi> and keeps it by force, contrary to ſeveral Treaties betwixt both kingdoms; which being ſo, We do by vertue of the large Treaty Declare to your Lordſhips, That all thoſe who have ſeized and taken the ſaid Town of <hi>Barwick,</hi> or do now hold and keep the ſame in a Hoſtile way as a Gari<g ref="char:EOLhyphen"/>ſon, To be Enemies and Traytors to the Parliament and king<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and in Arms againſt them; And likewiſe all Engliſh men who ſhall any ways be ayding, aſſiſting or abetting to them, or ſhall furniſh them with any Moneys, Horſes, Arms, Ammunition, Corn, or other Victual or proviſions whatſoever, and to be puniſhed accordingly: And do in the Name of Both Houſes of the Parliament of <hi>England</hi> demand, That your Lord<g ref="char:EOLhyphen"/>ſhips, in order to the repreſſing of them, do Declare them Ene<g ref="char:EOLhyphen"/>mies to this kingdom; And likewiſe all thoſe of the Scotiſh Na<g ref="char:EOLhyphen"/>tion who ſhall ayd them with Money, Horſe, Arms, Ammuni<g ref="char:EOLhyphen"/>tion, Corn, or any other Victuals or proviſions whatſoever. And to the end that they may not be ſtored with proviſions out of this kingdom, We deſire, That publication of ſuch Declara<g ref="char:EOLhyphen"/>tion as your Lordſhips ſhall make in this caſe, may be made forth<g ref="char:EOLhyphen"/>with not onely in <hi>Edenburgh,</hi> but in all parts of this kingdom near the ſaid Town of <hi>Barwick</hi> upon Tweed. And becauſe we hear that <hi>Carliſle</hi> is ſeized in like maner, We deſire your Lord<g ref="char:EOLhyphen"/>ſhips Orders and Declarations may extend to both: All which, conſidering the many ways whereby theſe kingdoms are engaged to one another, and your Lordſhips late Declarations of your Reſolutions to preſerve the happy Union betwixt them, we can<g ref="char:EOLhyphen"/>not doubt but that your Lordſhips will do effectually and with ſpeed.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> JOHN SQUIB.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="31" facs="tcp:116765:15"/>
+            <head>
+               <hi>A Letter from the Parliament of</hi> Scotland <hi>to the Parlia<g ref="char:EOLhyphen"/>ment of</hi> England.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>THe Parliament of <hi>Scotland</hi> now aſſembled, being reſolved by all fair and juſt means to endeavor the preſerving and enter<g ref="char:EOLhyphen"/>taining the Brotherly Union and good correſpondency betwixt the kingdoms; to which by ſo many bonds and tyes they are mutually obliged: Yet being very ſenſible that the many juſt and neceſſary Deſires given in by their Commiſſioners by order from this kingdom, for the good of Religion, of His Majeſty, and for the Intereſts of <hi>Scotland,</hi> have not received a ſatisfactory An<g ref="char:EOLhyphen"/>ſwer; and conſidering the many great and imminent dangers threatning Religion, His Majeſties Perſon and Authority, yea, Monarchical Government it ſelf, and the Peace and Union of theſe two kingdoms of <hi>Scotland</hi> and <hi>England,</hi> by the power and prevalency of Sectaries and their Adherents, Have thought fit to make theſe juſt and neceſſary Demands to the Honorable Houſes of the Parliament of <hi>England,</hi> to which the Parliament deſires a clear and ſatisfactory Anſwer, not having the leaſt thought or intention to encroach upon the National Rights of the king<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> nor to intrench upon the Priviledges of Par<g ref="char:EOLhyphen"/>liament; But their Zeal to the Glory of God, their Loyalty to their King, and their deſire of Unity betwixt the kingdoms, hath moved them to make theſe incloſed Demands, whereby Religion may be ſetled according to the Covenant, His Majeſty may enjoy His Freedom and Juſt Rights; And ſo by ſetling a Religious and ſafe Peace, the preſent Confuſions and Diſtempers may be removed, and all occaſions of Miſtakes and Differences betwixt the two kingdoms prevented. This is all I have in com<g ref="char:EOLhyphen"/>mand from the Parliament; In whoſe Name this is ſubſcribed by</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>26 <hi>April,</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips affectionate Friend and humble Servant, Loudoun <hi>Canc' Preſident of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb n="32" facs="tcp:116765:16"/>
+            <head>
+               <hi>Deſires of the Parliament of</hi> Scotland, <hi>to the Honorable Houſes of the Parliament of</hi> England.</head>
+            <p>FIrſt, It is deſired, That an effectual courſe be taken by the Houſes for enjoyning the Covenant to be taken by all the Subjects of the Crown of <hi>England,</hi> conform to the firſt Article of the Treaty, and conform to the Declaration of both king<g ref="char:EOLhyphen"/>doms in <hi>Anno</hi> 1643. By which all who would not take the Co<g ref="char:EOLhyphen"/>venant, were declared to be publique Enemies to Religion and the Countrey; and that they are to be cenſured and puniſhed as profeſſed adverſaries and Malignants; and that Reformation and Uniformity in Religion be ſetled according to the Covenant; That as the Houſes of Parliament have agreed to the Directory of Worſhip, ſo they would take a real courſe for practiſing therof by all the Subjects of <hi>England</hi> and <hi>Ireland;</hi> That the Confeſſion of Faith tranſmited by the Aſſembly of Divines to the Houſes, be approved; And that Presbyterian Government, with a ſubordi<g ref="char:EOLhyphen"/>nation of the lower Aſſemblies to the higher, be ſetled and fully eſtabliſhed in <hi>England</hi> and <hi>Ireland;</hi> And that effectual courſe be taken for ſuppreſsing and extirpating all Hereſies and Schiſms, particularly, Socinianiſm, Arminianiſm, Arrianiſm, Anabaptiſm, Antinomianiſm, Eraſtianiſm, Familiſm, Browniſm and Inde<g ref="char:EOLhyphen"/>pendency; And for perfecting of what is yet further to be done for extirpating of Popery and Prelacy, and ſuppreſſing the pra<g ref="char:EOLhyphen"/>ctice of the Service-Book, commonly called, <hi>The Book of Eng<g ref="char:EOLhyphen"/>liſh Common-Prayer.</hi>
+            </p>
+            <p>Secondly, That conform to the former deſires of this King<g ref="char:EOLhyphen"/>dom, the Kings Majeſty may come with Honor, Freedom and Safety to ſome of His Houſes in or near <hi>London,</hi> That the Par<g ref="char:EOLhyphen"/>liaments of both kingdoms may make their Applications to Him, for obtaining His Royal Aſſent to ſuch Deſires as ſhall be by them preſented to Him, for eſtabliſhing of Religion as is above expreſt, and ſetling a well grounded Peace.</p>
+            <p>Thirdly, That all the Members of both Houſes, who have been faithful in this cauſe, may freely and ſafely return and attend their charges; The City of <hi>London</hi> may enjoy its Liberty and Priviledges which it had before the late encroachment of the
+<pb n="33" facs="tcp:116765:16"/>Army; The Parliament may ſit and voyce with Freedom and Safety; Both kingdoms without interruption or diſturbance, may make their Applications to His Majeſty; And the ſettling of Religion and Peace, may not longer be hindred and obſtructed. It is deſired, That the preſent Army of Sectaries, under the com<g ref="char:EOLhyphen"/>mand of <hi>Thomas</hi> Lord <hi>Fairfax</hi> of <hi>Camerone,</hi> be disbanded, and none employed but ſuch as have or ſhall take the Covenant, and are well-affected to Religion and Government, excepting from the ſaid disbanding, the Gariſons neceſſary to be kept up by the Parliament of <hi>England</hi> for ſecurity of that kingdom, which are deſired to be commanded by ſuch as have or ſhall take the Co<g ref="char:EOLhyphen"/>venant, and are well-affected to Religion and Government as aforeſaid. <hi>Endenburgh</hi> the 26 day of <hi>April,</hi> in <hi>Anno</hi> 1648.</p>
+            <closer>
+               <signed>Loudoun, <hi>Canc' Preſident of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A Letter from the Lord Chancellor the</hi> 10 <hi>of May,</hi> 1648.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THe incloſed contains the Parliaments Anſwer to your former Papers; and as to that Paper which you ſent me yeſterday, the Anſwer will be returned either this night or to morrow: This is all I have in command, and ſo I reſt,</p>
+            <closer>
+               <signed>Your affectionate Friend and humble Servant, Loudoun, <hi>Canc' Preſident of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of the Anſwer of the Parliament of</hi> Scotland 2 May, <hi>to the Commiſsioners Papers of the</hi> 19 <hi>and</hi> 29 <hi>of</hi> April, 1648. <hi>con<g ref="char:EOLhyphen"/>cerning the perſons demanded by the Commiſsioners.</hi>
+            </head>
+            <opener>
+               <dateline>Edenburgh, <date>2 of May, 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe Eſtates of Parliament have conſidered the two Papers bearing date the 19. and 29. of <hi>April,</hi> preſented to them from the Commiſsioners of both Houſes of the Parliament of <hi>England,</hi> to which they return this Anſwer, That the perſons re<g ref="char:EOLhyphen"/>manded,
+<pb n="34" facs="tcp:116765:17"/>not being as they are informed in this Kingdom, they think it not neceſſary to inſiſt upon giving the Reaſons of their former Anſwer; but if the Commiſsioners of both Houſes ſhall think it fitting, they will appoint a Committee to confer with them anent thoſe Articles of the Large Treaty mentioned in your papers, and how far either kingdom ſtands ingaged there<g ref="char:EOLhyphen"/>by, wherein they are confident to give all juſt ſatisfaction.</p>
+            <closer>
+</closer>
+            <postscript>
+               <p>
+                  <hi>Extract. out of the Books of Parliament</hi>
+               </p>
+               <closer>
+                  <signed>by me Sir Alexander Gibſon <hi>of</hi> Dury <hi>Knight, and Clerk of His Majeſties Regiſters Councel and Rolls, and under my Sign and Subſcription Manual.</hi> Alex. Gibſon Cler. Regiſt.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>Memor. received this the 10. of May, 1648. in a Letter from the Lord Chancellor of the ſaid 10. of May.</p>
+            </postscript>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered by the Commiſsioners in to the Parliament of</hi> Scotland <hi>the</hi> 9. <hi>of</hi> May, 1648. <hi>preſsing them to declare againſt thoſe that had ſeized</hi> Barwick <hi>and</hi> Carliſle, <hi>and to prevent their ſupplies of Arms, Ammuni<g ref="char:EOLhyphen"/>tion and Proviſions out of</hi> Scotland.</head>
+            <opener>
+               <dateline>Edenburgh, <date>May 9. 1648.</date>
+               </dateline>
+            </opener>
+            <p>BY our Paper of the ſecond of this Moneth we did Declare, That thoſe who had ſeized the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> and kept it as a Gariſon, were Enemies and Traytors to the Parliament and kingdom of <hi>England,</hi> and all others of the Engliſh Nation, who were any ways ayding or aſsiſting to them; and the like for the City of <hi>Carliſle:</hi> And foraſmuch as what they have done herein, was againſt the Large Treaty and Act of Pacification, paſſed by the King and Parliaments of both kingdoms; and conſidering the great miſchief that might follow upon it, if they ſhould be furniſhed with Arms, Ammu<g ref="char:EOLhyphen"/>nition and Proviſions out of this kingdom, we did for preven<g ref="char:EOLhyphen"/>tion
+<pb n="35" facs="tcp:116765:17"/>thereof Demand, That your Lordſhips would likewiſe ſpeedily Declare againſt them, and all of this Nation who ſhould ayd or aſsiſt them; but we are very ſorry, in a buſineſs of ſo great concernment to the peace and good of both king<g ref="char:EOLhyphen"/>doms, we ſhould have cauſe to complain (after a weeks ex<g ref="char:EOLhyphen"/>pectation) that we have not received any Anſwer from your Lordſhips, eſpecially now being informed, that ſeveral loads of Arms, Ammunition and proviſions, have ſince the ſecond of this Moneth been conveyed out of this kingdom into the ſaid Town of <hi>Barwick,</hi> which we hope was onely done by ſome particular Malignants and diſ-affected perſons of this kingdom, and not by any allowance or connivance from your Lordſhips, it being ſo directly againſt not onely the Treaties betwixt both kingdoms, but againſt the Solemn League and Covenant, where<g ref="char:EOLhyphen"/>in we have ſworn, not to ſuffer our ſelves directly nor indi<g ref="char:EOLhyphen"/>rectly, by whatſoever combination, perſwaſion or terror, to be divided or withdrawn from the bleſſed Union and Conjunction (of theſe kingdoms) either by making defection to the contrary party, or by giving our ſelves to a deteſtable indifferency or neu<g ref="char:EOLhyphen"/>trality in this cauſe; and therefore all thoſe who have taken the Covenant, muſt needs ingage God againſt them, if they any ways ingaged with, or aſsiſt thoſe men in <hi>Barwick</hi> and <hi>Carliſle,</hi> who (as we are informed) have many Papiſts come daily to joyn with them, and themſelves are of the Popiſh and Prelatical party, who have been in Arms againſt both kingdoms, and againſt that cauſe wherein we have been happily United, and to which God hath given a bleſsing of Victory and Succeſs; and as we are moſt confident, that not onely the Parliament of <hi>England,</hi> but alſo all the Religious perſons, and thoſe who have been faithful in this cauſe in <hi>England,</hi> will ſtill be United againſt thoſe in <hi>Barwick</hi> and <hi>Carliſle,</hi> and all other our common Ene<g ref="char:EOLhyphen"/>mies, ſo we cannot doubt but that your Lordſhips actions and de<g ref="char:EOLhyphen"/>terminations will be ſuch as ſhall ſpeak you to have the ſame affections and reſolutions to the preſervation of the Union be<g ref="char:EOLhyphen"/>twixt theſe kingdoms, and to the maintenance of this cauſe againſt the common Enemies of it that ever you had; from which if either kingdom do recede, it can onely be an advantage to
+<pb n="36" facs="tcp:116765:18"/>the Rebels of <hi>Ireland,</hi> and the Popiſh and Prelatical party of <hi>England</hi> and <hi>Scotland,</hi> but muſt be a reproach, loſs and infinite hazard to all the reſt, which we are well aſſured the kingdom of <hi>England</hi> will no ways be guilty of, and we hope the ſame of your Lordſhips, that your proceedings will be ſuch as we ſhall never hereafter have cauſe to remember, How many of our Engliſh Delinquents did lately reſort hither; How long they had ſhelter and freedom here; How often we did by Directi<g ref="char:EOLhyphen"/>ons, and in the Name of the Parliament of <hi>England,</hi> Demand ſome of the chief of them to be delivered to us, and had them not; How many meetings and conſultations they had in this City; How they went from hence when they did take <hi>Barwick</hi> and <hi>Carliſle,</hi> ſome of thoſe Soldiers (as we are informed) having for divers weeks before had Free-quarter in this king<g ref="char:EOLhyphen"/>dom, and divers of them pay (as themſelves affirmed) That thoſe who are now chief Commanders in them were here, and demanded by us; And that ſince (in the time of the delay of your Lordſhips Anſwer to our laſt Paper) they have (as we are credibly informed) been furniſhed with Arms, Ammunition and Proviſions out of this kingdom; We do therefore earneſt<g ref="char:EOLhyphen"/>ly preſs your Lordſhips to take our Paper of the ſecond of this Moneth into conſideration, that ſo all ſuch miſchiefs for the future may be prevented (until it pleaſe God by his bleſsing upon the Forces of the Kingdom of <hi>England,</hi> to give thoſe per<g ref="char:EOLhyphen"/>ſons in <hi>Barwick</hi> and <hi>Carliſle</hi> into their hands) and by your Lordſhips actions and reſolutions tending to Peace and Union of the kingdoms, there may be a further declared and manifeſt confidence and good underſtanding betwixt both kingdoms, which for our parts we ſhall not only heartily deſire, but earneſt<g ref="char:EOLhyphen"/>ly and faithfully endeavor.</p>
+            <closer>
+               <signed>By command of the Commiſsioners of the Parliament of <hi>England,</hi> THO: READE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="37" facs="tcp:116765:18"/>
+            <head>
+               <hi>The Anſwer of the Parliament of</hi> Scotland <hi>the</hi> 10 <hi>of</hi> May, <hi>to the Commiſſioners Papers of the</hi> 2 <hi>and</hi> 9 <hi>of</hi> May, <hi>con<g ref="char:EOLhyphen"/>cerning</hi> Barwick <hi>and</hi> Carliſle, 1648.</head>
+            <opener>
+               <dateline>Edenburgh, <date>10 Maii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas your Lordſhips mentioned by your Paper of the 2 of <hi>May</hi> inſtant, That you formerly had given us no<g ref="char:EOLhyphen"/>tice of a Deſign ſome Engliſh Delinquents had to ſeize upon the Town of <hi>Barwick</hi> upon <hi>Tweed;</hi> by the ſame Addreſs you in<g ref="char:EOLhyphen"/>formed us, that Guards were kept there for preventing any ſuch Deſign; and as to your Demands concerning the Delivery of Captain <hi>Wogan</hi> and his Troop, and Sir <hi>Thomas Glemham,</hi> Sir <hi>Marmaduk Langdale,</hi> Sir <hi>Philip Muſgrave,</hi> Colonel <hi>Wray,</hi> and Sir <hi>Lewis Dives,</hi> We gave you ſuch Anſwers thereunto as we conceived agreeable to the Treaties, which by our Paper of the 2 of <hi>May</hi> inſtant, we offered to aſſert by conferrence; And whereas you give us notice that the Towns of <hi>Barwick</hi> and <hi>Carliſle</hi> are ſeized upon, contrary to the ſeveral Treaties betwixt both kingdoms; and by vertue of the large Treaty, your Lordſhips in Name of Both Houſes of the Parliament of <hi>England,</hi> do Declare all thoſe who have ſeized and taken the ſaid Towns, or do now hold and keep the ſame in an Hoſtile way as a Gariſon, to be Enemies and Traytors to the Parliament and Kingdom of <hi>England,</hi> and in Arms againſt them; And likewiſe all Engliſh men, who ſhall any ways be aiding, aſſiſting or abetting to them; And do in their name alſo Demand, that in order to the repreſ<g ref="char:EOLhyphen"/>ſing of them, we ſhould declare them Enemies to this kingdom, and likewiſe any of this kingdom, who ſhall ayd or aſſiſt them: To this and your Paper of the 9 relating thereto, we return this Anſwer, That as we have been always moſt careful to preſerve unviolated on our parts all the Articles of the Treaties betwixt the kingdoms, ſo when we ſhall be certainly informed by what perſons, and by what power and authority the places are ſeized upon and Gariſoned, your Lordſhips may be confident that this kingdom will do thereupon what is juſt and fit, and agreea<g ref="char:EOLhyphen"/>ble to their Solemn Covenant and Treaties; and upon this or
+<pb n="38" facs="tcp:116765:19"/>any thing elſe you have in command from the two Houſes, we are ready to appoint ſome to confer with you.</p>
+            <closer/>
+            <postscript>
+               <p>Extracted out of the Books of Parliament</p>
+               <closer>
+                  <signed>by me Sir <hi>Alex: Gibſon</hi> of <hi>Dury</hi> Knight, Clerk of His Ma<g ref="char:EOLhyphen"/>jeſties Regiſters Councels and Rolls, under my Sign and Subſcription Manual. <hi>Alex: Gibſon,</hi> Cleric. Regiſt.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered in to the Committee of Eſtates by the Engliſh Commiſſioners, with the Votes of Both Houſes of</hi> May 6. 1648.</head>
+            <opener>
+               <dateline>Edenburgh, <date>15 Maii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE have often declared to your Lordſhips the unfeigned deſires of Both Houſes of the Parliament of <hi>England,</hi> to continue and preſerve the Union and Brotherly Agreement betwixt them and the Parliament and kingdom of <hi>Scotland;</hi> And now it may appear to your Lordſhips and all the World, how really they have endeavored it by their reſolutions here incloſed, which we doubt not will give your Lordſhips ſatisfaction: we are to give an accompt to Both Houſes of Parliament of your Lordſhips acceptance of what they herein do offer, which we hope your Lordſhips will return to us with all convenient ſpeed.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> THO: READE.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Vote</hi> 6 Maii, <hi>concerning the keeping of the Covenant and Trea<g ref="char:EOLhyphen"/>ties, and their offer to joyn with the Propoſitions preſent<g ref="char:EOLhyphen"/>ed to the King at</hi> Hampton-Court.</head>
+            <opener>
+               <date>6 Maii, 1648.</date>
+            </opener>
+            <p>THe Lords and Commons do Declare, That they are fully re<g ref="char:EOLhyphen"/>ſolved to mantain and preſerve inviolably the Solemn
+<pb n="39" facs="tcp:116765:19"/>League and Covenant, and the Treaties betwixt the Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> and that they ſhall be ready to joyn with the kingdom of <hi>Scotland;</hi> in the Propoſitions agreed on by both kingdoms, preſented to the King at Hampton-Court, for the making ſuch further proceedings thereupon, as ſhall be thought fit for the ſpeedy ſettlement of the Peace of both king<g ref="char:EOLhyphen"/>doms, and preſervation of the Union according to the Cove<g ref="char:EOLhyphen"/>nant and Treaties.</p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Anſwer of the Commiſsioners of both Houſes of the Par<g ref="char:EOLhyphen"/>liament of</hi> England, <hi>unto the ſeveral Papers of the</hi> 2. <hi>and</hi> 10. <hi>of</hi> May <hi>inſtant, ſent to them from the Honorable Parliament of</hi> Scotland.</head>
+            <opener>
+               <dateline>Edenburgh, <date>18 of May, 1648.</date>
+               </dateline>
+            </opener>
+            <p>BY your Lordſhips Papers of the 2. of <hi>May</hi> inſtant, in An<g ref="char:EOLhyphen"/>ſwer to ours of the 19. and 29. of <hi>April</hi> (which yet we did not receive till the 10.) you are pleaſed to inform us, That the perſons remanded are not within this kingdom, and therefore you think it not neceſſary to inſiſt upon giving the Reaſons of your Lordſhips former Anſwer, but offer us a conference about it; to which we muſt Reply, That by the ſame Reaſon, it is not neceſſary to have any conference upon it; and however, we ſhall not wave a conference concerning the aforeſaid Papers, if your Lordſhips ſhall deſire it, yet we wiſh it had been offered to us before thoſe Gentlemen took their journey from hence, ſo much to the prejudice of the kingdom of <hi>England,</hi> when (as we ſhould not have doubted to clear the juſtice of our Demands, ſo) we might have had hope to reap the fruit of it in having thoſe perſons delivered to us, which might have prevented much miſ<g ref="char:EOLhyphen"/>chief that hath and may happen to both kingdoms.</p>
+            <p>For your Lordſhips Paper of the 10. of <hi>May</hi> inſtant, in An<g ref="char:EOLhyphen"/>ſwer to ours of the 2. and 9. of <hi>May,</hi> as to that part wherein your Lordſhips are pleaſed to ſay, That we had in a former Addreſs to you, informed your Lordſhips, that Guards were kept in <hi>Barwick</hi> upon <hi>Tweed;</hi> we affirm, if your Lordſhips ſhall pleaſe to peruſe that Letter, it will appear, that we did not inform
+<pb n="40" facs="tcp:116765:20"/>your Lordſhips that any Guards were there, but onely a Watch of Townſmen (which by the Laws of the kingdom of <hi>England</hi> every Town may keep) the ſcope of our Letter being onely to aſſure your Lordſhips, that there were no Guards or ſhew of Hoſtility or Gariſon there; it being the reſolution of the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and of us intruſted by them, not onely to keep the Treaties betwixt the kingdoms inviolable, but to avoid every thing that might have the leaſt appearance of a breach; and therefore although at that time the Major and Officers of <hi>Barwick</hi> did give charge to the Watch, That during the time of the then intended Horſe-race, no man that had been in Arms againſt the Parliament, ſhould come into the Town, yet becauſe we heard that ſome Members of the Parliament here were unſatisfied with it, to avoid offence, the ſaid Watch was laid down; this being the truth, whatever we may ſuffer at preſent by the ſurprizing and holding of <hi>Barwick</hi> and <hi>Carliſle,</hi> yet our honeſt and ſincere intentions herein, we are aſſured is acceptable to God and all good men; and we are confident will (by Gods bleſsing in the iſſue) be of more advantage, then if we had underhand privately carried on unworthy and unrigh<g ref="char:EOLhyphen"/>teous deſigns againſt our Agreement with this kingdom, to get them taken and held without your Lordſhips conſent, although it had been to no other end, but to preſerve them from thoſe who have been in Arms againſt us, and who as they have hither<g ref="char:EOLhyphen"/>to been, ſo will again be found to be, the real Enemies of both kingdoms.</p>
+            <p>As to that part of the Anſwer your Lordſhips are pleaſed to give us, That when you ſhall be certainly informed, by what perſons, and by what power and authority theſe places are ſeized upon and Gariſoned, we may be confident, that this kingdom will do thereupon what is juſt and fit, and agreeable to the So<g ref="char:EOLhyphen"/>lemn Covenant and Treaties; and upon this or any other thing elſe we have in command from the two Houſes, your Lordſhips are ready to appoint ſome to confer with us.</p>
+            <p>We muſt confeſs this Anſwer ſeemed very ſtrange to us, when our Papers to which your Lordſhips did relate, aſſured your Lord<g ref="char:EOLhyphen"/>ſhips, that they were ſuch perſons as were Enemies to the Par<g ref="char:EOLhyphen"/>liament
+<pb n="41" facs="tcp:116765:20"/>and kingdom of <hi>England;</hi> and theſe being Engliſh Towns, if we had ſaid no more, conſidering the tyes that are be<g ref="char:EOLhyphen"/>twixt theſe kingdoms (although there had been no Treaties be<g ref="char:EOLhyphen"/>twixt us concerning theſe Towns) yet we conceive had been ſufficient grounds in our ſaid Papers of the 2. and 9. of <hi>May</hi> for our Demands; but we did more particularly tell your Lord<g ref="char:EOLhyphen"/>ſhips, that they were ſuch as went from this City (of <hi>Eden<g ref="char:EOLhyphen"/>burgh)</hi> to take and ſeize them, and ſome of thoſe whom we had in the Name of the Parliament of <hi>England</hi> demanded of your Lordſhips whileſt they were here: and although we cannot imagine but the particular names of thoſe perſons are much bet<g ref="char:EOLhyphen"/>ter known to many in this City then to us, ſeeing thoſe in <hi>Car<g ref="char:EOLhyphen"/>liſle</hi> and <hi>Barwick</hi> have frequent and free recourſe hither, even the Commanders in theſe Towns; yet we ſhall more particularly acquaint your Lordſhips (as we are credibly informd) that of thoſe we have demanded, Sir <hi>Marmaduke Langdale</hi> did ſeize <hi>Barwick,</hi> and commands the Forces there and thereabouts in chief, and that with him there is Colonel <hi>George Wray,</hi> and many ſuch like, that have been Papiſts in Arms; and that Sir <hi>Philip Muſgrave</hi> hath taken and holds <hi>Carliſle,</hi> and that with him is Captain <hi>Wogan</hi> and his Troop, which as to the perſons, we hope, will give your Lordſhips ſatisfaction; however we conceive it was altogether unneceſſary, further then to Anſwer your Lordſhips Quere in our Papers; for if theſe Towns be taken, ſeized and held (as they are) contrary to the Treaties, it is a breach in any whomſoever.</p>
+            <p>For your Lordſhips deſire to know by what power and au<g ref="char:EOLhyphen"/>thority theſe places are ſeized upon and Gariſoned; although we cannot Anſwer it in the Affirmitive, yet we may ſatisfie your Lordſhips in the Negative, That no power on earth without the conſent of the Parliament of <hi>England,</hi> can give a lawful War<g ref="char:EOLhyphen"/>rant to take or hold thoſe Towns of <hi>Barwick</hi> and <hi>Carliſle,</hi> they being to remain diſgariſoned by Act of Parliament, whereof we need not to give further aſſurance to your Lordſhips, the ſame Act being likewiſe paſſed in this kingdom: For the conference upon this buſineſs offered by your Lordſhips, although we con<g ref="char:EOLhyphen"/>ceive nothing can be objected againſt theſe clear matters of fact,
+<pb n="42" facs="tcp:116765:21"/>yet we ſhould willingly accept of it, but that it muſt make a delay, which we have no reaſon to occaſion on our part, when to the ſtores of Arms and Ammunitions which are already brought to <hi>Barwick</hi> and <hi>Carliſle,</hi> mentioned in our former Papers (although not taken notice of by your Lordſhips in your Anſwer) we are credibly informed, that ſeveral pieces of Ordnance are now go<g ref="char:EOLhyphen"/>ing out of this kingdom to <hi>Barwick;</hi> which if your Lordſhips do not allow (as we are confident you will not) we hope you will not onely uſe means to prevent, but now without further delay, make ſuch Declaration againſt thoſe that now hold the ſaid Towns of <hi>Barwick</hi> and <hi>Carliſle,</hi> and their adherents, as will make it appear to the world, that your Lordſhips are re<g ref="char:EOLhyphen"/>ſolved to keep inviolable the Solemn Covenant and Treaties be<g ref="char:EOLhyphen"/>twixt the kingdoms of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <closer>
+               <signed>By command of the Commiſſioners of of the Parliament of <hi>England,</hi> THO: READE.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper delivered by the Commiſſioners to the Committee of Eſtates the Twenty fifth of</hi> May, 1648. <hi>In purſuance of theirs of the</hi> 15. <hi>ſent with the Votes of Both Houſes.</hi>
+            </head>
+            <opener>
+               <dateline>Edenburgh, <date>25 Maii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>BY our Paper dated the fifteenth of this inſtant <hi>May,</hi> We did communicate to your Lordſhips a Vote of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> declaring their readineſs to joyn with the kingdom of <hi>Scotland</hi> in the Propoſitions agreed on by both king<g ref="char:EOLhyphen"/>doms, preſented to the King at Hampton-Court, and the making ſuch further proceedings thereupon as ſhould be thought fit for the ſpeedy ſettlement of the Peace of both kingdoms, and pre<g ref="char:EOLhyphen"/>ſervation of the Union according to the Covenant and Treaties; whereunto preſuming of your Lordſhips Reſolutions to purſue the ſame ends, we expected a ſpeedy Anſwer; but having not as yet received any, we muſt preſs your Lordſhips for a return to
+<pb n="43" facs="tcp:116765:21"/>that Paper, and the Vote therewith ſent to your Lordſhips, which ſo much conduceth to the happineſs of both kingdoms.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> THO: READE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>To the Right Honorable the Lord</hi> Loudoun, <hi>Lord Chancellor of</hi> Scotland, <hi>and Preſident of the Parliament of</hi> Scotland.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>VVE are commanded by Both Houſes of Parliament to acquaint your Lordſhip, That they received a Let<g ref="char:EOLhyphen"/>ter of the 26. of <hi>April</hi> laſt, ſigned by your Lordſhip in the Name of the Parliament of the Kingdom of <hi>Scotland,</hi> together with a Paper of Deſires encloſed, and that ſuch Reſolutions as ſhall be taken thereupon, ſhall be ſignified to the Parliament of <hi>Scotland,</hi> by the Commiſſioners of this Kingdom reſident there: Thus much we deſire your Lordſhip to communicate to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland,</hi> which being all we have in command, we remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtminſter,</hi> 
+                  <date>15 <hi>Maii,</hi> 1648.</date>
+               </dateline>
+               <signed>Your Lordſhips humble Servants, <hi>Signed by the Speakers of Both Houſes.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>After that the Letter of Both Houſes of the Parliament of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>to the Lord Chancellor of</hi> Scotland, <hi>concerning their Deſires of the</hi> 26. <hi>of</hi> April, <hi>was received by the Committee of Eſtates then ſitting; The Lord</hi> Crawford <hi>and</hi> Lindſey, <hi>Lord Treaſurer of</hi> Scotland, <hi>in the name of that Committee did write a Letter to the Engliſh Commiſſioners, a Copy thereof is wanting; but it was to this purpoſe, That the Committee of Eſtates deſired to know whether the Parliament of</hi> England <hi>had ſent unto them an Anſwer of their Deſires of the</hi> 26. <hi>of</hi> April, <hi>whereunto the Engliſh Com<g ref="char:EOLhyphen"/>miſſioners returned the enſuing Anſwer.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="44" facs="tcp:116765:22"/>
+            <head>
+               <hi>A Letter to the Lord Treaſurer of</hi> Scotland, 23 <hi>Maii,</hi> 1648.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur Lordſhips Letter of <hi>May</hi> 23. we received this day; in Anſwer whereunto we deſire your Lordſhip to acquaint the Right Honorable the Committee of Eſtates, that we have not yet heard from the Parliament of <hi>England</hi> this week, but we are in daily expectation to hear from them, concerning the contents of your Lordſhips Letter, which ſhall be without delay ſignified to your Lordſhip, as ſoon as it comes to our hands, by, My Lord,</p>
+            <closer>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C. Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A copy of a Letter to the Lord Chancellor of</hi> Scotland, 1 Junii, 1648.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>IF the Committee of Eſtates had ſitten ſince Saturday laſt, We had given them the incloſed Papers, which we now intreat your Lordſhip to communicate to the Parliament of <hi>Scotland,</hi> from, My Lord,</p>
+            <closer>
+               <signed>Your Lordſhips humble Servants, <list>
+                     <item>
+                        <hi>C: Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Will: Aſhhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob: Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of the Commiſſioners Paper, concerning the Deſires of the Parliament of</hi> Scotland, <hi>of the</hi> 26 <hi>of</hi> April, 1648.</head>
+            <opener>
+               <dateline>Edenburgh, <date>June 1. 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE are commanded by Both Houſes of the Parliament of <hi>England,</hi> in purſuance of their Letter to the Lord Chancellor of <hi>Scotland,</hi> dated the 15 of <hi>May</hi> laſt, to acquaint your Lordſhips, that before they received your Lordſhips Paper
+<pb n="45" facs="tcp:116765:22"/>of Deſires of the 26 of <hi>April</hi> laſt, Both Houſes were in Debate and Conſideration of the beſt ways and means for the ſetling of a well grounded Peace, and preſervation of a good corre<g ref="char:EOLhyphen"/>ſpondency and brotherly Agreement and Union betwixt the kingdoms; And as the moſt effectual way thereunto, Both Houſes did paſs the incloſed Vote, which we ſent to the Hono<g ref="char:EOLhyphen"/>rable Committee of Eſtates, with a Paper of the 15 of <hi>May,</hi> deſiring their Lordſhips Reſolutions thereupon, and ſeconded that Paper by another to them of the 25 of the ſame moneth, to which we have received no anſwer. We are commanded to aſſure your Lordſhips, that the Parliament of <hi>England</hi> do make a real offer to joyn with your Lordſhips, in the Propoſitions a<g ref="char:EOLhyphen"/>greed upon by both kingdoms, preſented to the King at <hi>Ham<g ref="char:EOLhyphen"/>pton-Court,</hi> for the making ſuch further proceedings thereupon as ſhall be thought fit, for the ſpeedy ſettlement of a Peace of both kingdoms, and preſervation of the Union according to the Covenant and Treaties. And we are further commanded to aſſure your Lordſhips, that when the Parliament of <hi>England</hi> ſhall receive the anſwer of the Parliament of <hi>Scotland,</hi> con<g ref="char:EOLhyphen"/>cerning their Conjunction in the ſaid Propoſitions, The Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> will be then ready to give your Lordſhips ſatiſ<g ref="char:EOLhyphen"/>faction in thoſe things which ſhall be judged neceſſary for the Peace of both kingdoms, and which ſhall not intrench upon the particular intereſt of the kingdom, and priviledges of the Par<g ref="char:EOLhyphen"/>liament of <hi>England.</hi>
+            </p>
+            <closer>
+               <signed>By command of the Commiſsioners of the Parliament of <hi>England,</hi> EDVVARD FOX.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of the Paper concerning the Forces marching into the North, of the</hi> 1 <hi>of</hi> June, 1648.</head>
+            <opener>
+               <dateline>Edenburgh, <date>June 1. 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE have in command from the Parliament of <hi>England</hi> to give notice to your Lordſhips, That the Lord <hi>Fairfax</hi>
+               <pb n="46" facs="tcp:116765:23"/>hath command from the Houſes to march with Forces into the Northern counties of the kingdom of <hi>England,</hi> for the ſuppreſ<g ref="char:EOLhyphen"/>ſing of thoſe who are now in Arms againſt that kingdom, and for the removing of them (according to the Treaties) who have poſſeſſed <hi>Barwick</hi> and <hi>Carliſle</hi> contrary thereunto: And we are further commanded to aſſure your Lordſhips (and as we have power and authority from Both Houſes of the Parliament of <hi>England,</hi> we do hereby engage the Faith of the Kingdom of <hi>England</hi>) That the employing or ſending of theſe or any other Forces to the more remote Northern parts of the kingdom of <hi>England,</hi> is not with the leaſt intention of any offence or preju<g ref="char:EOLhyphen"/>dice to the kingdom of <hi>Scotland,</hi> or in the leaſt maner to diſturb the peace or quiet of that kingdom, but for the ſuppreſſion of the ſaid Traytors and Rebels now in Arms againſt the Houſes, and the keeping of the Northern counties in obedience to the Parliament of <hi>England,</hi> and protection of ſuch as have been faithful to the Cauſe which Both kingdoms have been and are engaged in.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> EDWARD FOX.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of a Paper delivered by the Commiſſioners of the</hi> 6 <hi>of</hi> June, 1648. <hi>preſſing the Parliament of</hi> Scotland <hi>to declare againſt them in</hi> Barwick <hi>and</hi> Carliſle, <hi>and againſt their Supplies out of</hi> Scotland.</head>
+            <opener>
+               <dateline>Edenburgh, <date>6 June, 1648.</date>
+               </dateline>
+            </opener>
+            <p>BY our ſeveral Papers of the 2. the 9. and the 18 of <hi>May</hi> laſt, We have in the Name of the Parliament of <hi>England</hi> (upon grounds of Treaties and Acts of Parliament paſſed Both king<g ref="char:EOLhyphen"/>doms) demanded, That your Lordſhips would declare againſt thoſe who had (contrary thereunto) ſeized and do hold the Town of <hi>Barwick</hi> upon Tweed, and city of <hi>Carliſle,</hi> and againſt all ſuch of this Nation as ſhould ayd or aſſiſt them; but we are
+<pb n="47" facs="tcp:116765:23"/>(and the Parliament of <hi>England</hi> have juſt cauſe to be) very ſen<g ref="char:EOLhyphen"/>ſible, That notwithſtanding we did according to our duties timely and frequently repreſent to your Lordſhips what miſchiefs have and were like to happen, if they were not ſpeedily declared againſt by your Lordſhips; yet thoſe in the aforeſaid Towns, who have been and are profeſſed Enemies to both Kingdoms, and for ſome years paſt have ſtill been fighting againſt the cauſe of God, Religion and the Covenant (which your Lordſhips profeſs to maintain) have gotten ſo much encouragement, and ſo many ad<g ref="char:EOLhyphen"/>vantages by your Lordſhips delaying hitherto to declare againſt them: And now being further credibly informed, That many loads of Proviſion, Arms and Ammunition have lately gone from this City of <hi>Edenburgh</hi> to the ſaid Town of <hi>Barwick,</hi> and that the people of this Kingdom have free recourſe to <hi>Barwick</hi> and <hi>Carliſle,</hi> and many have there taken up Arms with them, notwithſtanding it be well known, that there be very many Pa<g ref="char:EOLhyphen"/>piſts amongſt them, and that ſome chief men (who impoſe great ſums of money upon the well-affected, both in thoſe Towns and Countreys thereabouts) and ſome chief Officers both in thoſe Gariſons and their other Forces, are notorious Papiſts, who ought to be ſo far from being connived at, that (by the Agree<g ref="char:EOLhyphen"/>ment of both Kingdoms in their Propoſitions preſented to the King) they were to be excepted from pardon.</p>
+            <p>We do therefore once more earneſtly preſs your Lordſhips, that you would take this buſineſs into your ſerious conſide<g ref="char:EOLhyphen"/>ration, when we ſhall not doubt but that your Lordſhips Reſolutions therein, will Anſwer our Deſires and Expectations.</p>
+            <p>We do further acquaint your Lordſhips, that we are credibly informed, That ſome Troops lately raiſed by your Lordſhips Au<g ref="char:EOLhyphen"/>thority, went Armed in an Hoſtile way into the Kingdom of <hi>England,</hi> and did Quarter there, to the great encouragement of thoſe who are Enemies to the Peace of both Kingdoms, which as we hope it was done without your Lordſhips knowledge, ſo we doubt not but that your Lordſhips will declare againſt it, and will take effectual courſe that ſuch things may not happen, to make breaches and interrupt the Peace of both Kingdoms: We do likewiſe further Deſire, That (with all convenient ſpeed) we
+<pb n="48" facs="tcp:116765:24"/>may receive your Lordſhips Reſolutions concerning the offer made to your Lordſhips by Both Houſes of the Parliament of <hi>England,</hi> repreſented to the honorable the Committee of Eſtates in our Papers of the 15. and 25. of <hi>May</hi> laſt, and to your Lord<g ref="char:EOLhyphen"/>ſhips in our Paper of the firſt of this preſent <hi>June,</hi> that ſo we may give an account thereof to the Parliament of <hi>England,</hi> who do daily expect it from us.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England.</hi> EDVVARD FOX.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Anſwers of the Parliament of</hi> Scotland <hi>to the Papers after mentioned, preſented to them from the Engliſh Commiſſioners.</hi>
+            </head>
+            <opener>
+               <dateline>Edenburgh, <date>Septimo Junii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>THe Eſtates of Parliament have received your Lordſhips Papers of the firſt of this inſtant <hi>June,</hi> with the Votes of the Hono<g ref="char:EOLhyphen"/>rable Houſes of the 6. of <hi>May</hi> laſt, to which they can return no Anſwer, until juſt ſatisfact on be given to their neceſſary Deſires of the 26. of <hi>April.</hi>
+            </p>
+            <p>By your other Paper of the ſame date, your Lordſhips gave no<g ref="char:EOLhyphen"/>tice of the Lord <hi>Fairfax</hi> his march unto the Northern counties, by command from the Honorable Houſes of the Parliament of <hi>England,</hi> with this aſſurance, That it is not with the leaſt intenti<g ref="char:EOLhyphen"/>on of any offence or prejudice to the Kingdom of <hi>Scotland:</hi> And as you therein expreſs the reſpect of the two Houſes to this Kingdom, ſo the Parliament do aſſure your Lordſhips, That their Reſolutions of raiſing new Forces within this Kingdom for their own ſecurities, and for obſerving their pious and loyal Deſires, are without the leaſt intention to interrupt the Union betwixt the Kingdoms of <hi>Scotland</hi> and <hi>England,</hi> or violate in the leaſt maner any of the Articles of the Solemn League and Covenant, by which they are ſo ſtrictly united under his Majeſties government.</p>
+            <closer/>
+            <postscript>
+               <p>
+                  <hi>Extract. forth of the Records of Parliament</hi>
+               </p>
+               <closer>
+                  <signed>by me Sir Alex. Gibſon <hi>of</hi> Dury <hi>Knight, Clerk of His Majeſties Regi<g ref="char:EOLhyphen"/>ſters Councels and Rolls, under my Sign and Subſription Manual.</hi> Alex. Gibſon, Cleric. Regiſt.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="49" facs="tcp:116765:24"/>
+            <head>
+               <hi>The Reply of the Commiſſioners of the Parliament of</hi> England, <hi>to the Anſwer of the Parliament of</hi> Scotland, 7 <hi>Junii,</hi> 1648.</head>
+            <opener>
+               <dateline>Edenburgh, <date>9 Junii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Commiſſioners of the Parliament of <hi>England,</hi> have this day received your Lordſhips Anſwer of the 7 of <hi>June,</hi> to our Papers of <hi>June</hi> the firſt; And as to that ſent with the Votes of Both Houſes of the Parliament of the 6 of <hi>May</hi> laſt, your Lordſhips were pleaſed to tell us, That you can re<g ref="char:EOLhyphen"/>turn no Anſwer until juſt ſatisfaction be given to your neceſſary Deſires of the 26 of <hi>April;</hi> whereunto we muſt Reply, That when it is conſidered how we did in the Moneth of <hi>March</hi> laſt, in the Name of Both Houſes of the Parliament of <hi>England,</hi> demand of your Lordſhips ſome Engliſh Delinquents and In<g ref="char:EOLhyphen"/>cendiaries that were then (and for a long time after) in this City of <hi>Edenburgh,</hi> to be delivered to the diſpoſal of the Parliament of <hi>England,</hi> according to the Treaties and Acts of Parliament paſſed both Kingdoms, and how often we preſſed and renewed thoſe Demands, and yet your Lordſhips did not think fit to deliver them, but ſuffer them to return to <hi>England</hi> in Arms, where they are Waſting and Deſtroying thoſe in the Northern Counties of that Kingdom, who have been faithful in the Covenant and Cauſe wherein both Kingdoms are engaged. And when it is like<g ref="char:EOLhyphen"/>wiſe conſidered, that the Town of <hi>Barwick</hi> was taken before your Lordſhips Deſires of the 26 of <hi>April</hi> went out of this City; And that we did upon the 2 of <hi>May</hi> laſt, (which was be<g ref="char:EOLhyphen"/>fore your Lordſhips ſaid Deſires came to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) Demand that your Lordſhips would Declare againſt thoſe (Delinquents and Papiſts) that had taken and held the ſaid Town contrary to the Treaties betwixt the Kingdoms, and have ſince very often by ſeveral Papers preſſed that Demand (and the like for <hi>Carliſle</hi>) and yet got no ſatisfactory Anſwer; Theſe De<g ref="char:EOLhyphen"/>mands and Deſires of the Parliament of <hi>England</hi> to your Lord<g ref="char:EOLhyphen"/>ſhips, being firſt in time, and upon moſt juſt and clear grounds of Treaties and Acts of Parliament in both Kingdoms, and the de<g ref="char:EOLhyphen"/>laying of them being ſo prejudicial to the Kingdom of <hi>England:</hi> when theſe things (we ſay) are well and indifferently weighed
+<pb n="50" facs="tcp:116765:25"/>and conſidered, we doubt not but it will appear to your Lord<g ref="char:EOLhyphen"/>ſhips, that the Parliament of <hi>England</hi> had more cauſe then your Lordſhips, to have made ſuch a return that they could give no Anſwer to your Lordſhips ſaid Deſires of the 26 of <hi>April,</hi> until juſt ſatisfaction had been given to their aforeſaid Demands and Deſires made by us to your Lordſhips; eſpecially conſidering, That neither in the paper of your Lordſhips ſaid Deſires, nor in the Letter ſent with them from the Lord Chancellor, nor any other way ſince, do your Lordſhips oblige your ſelves to any thing, or make any offer to the Parliament of <hi>England</hi> (though they had granted all your Lordſhips Deſires) which might be a ground of further mutual confidence betwixt the kingdoms; but on the contrary (whatſoever anſwer they ſhould give) your Lord<g ref="char:EOLhyphen"/>ſhips have ever ſince you ſent your Deſires &amp; before) been purſu<g ref="char:EOLhyphen"/>ing your reſolutions to raiſe a new Army, which (as it is generally reported and believed) is to invade the kingdom of <hi>England</hi> (to which the expreſſions in your Lordſhips Anſwer gives too great grounds of jealouſie, which we ſhal afterwards mention in its pro<g ref="char:EOLhyphen"/>per place) yet the Parliament of <hi>England,</hi> who are exceeding deſi<g ref="char:EOLhyphen"/>rous to continue and preſerve the brotherly Agreement and hap<g ref="char:EOLhyphen"/>py Union betwixt theſe Kingdoms, and to uſe all good means to that end, have notwithſtanding made the firſt offer to your Lord<g ref="char:EOLhyphen"/>ſhips (which is) to joyn with your Lordſhips in the Propoſitions, preſented to the King at Hampton-Court, and for the making ſuch further Proceedings thereupon, as ſhall be thought fit for the ſpeedy ſettlement of the Peace of both Kingdoms, and preſer<g ref="char:EOLhyphen"/>vation of the Union according to the Covenant and Treaties. And further, that upon their Receipt of your Lordſhips reſolu<g ref="char:EOLhyphen"/>tions, therein they will be ready to give your Lordſhips ſatisfa<g ref="char:EOLhyphen"/>ction in thoſe things which ſhall not intrench upon the particular Intereſt of the Kingdom, and priviledges of the Parliament of <hi>England:</hi> Wherein the Parliament of <hi>England</hi> aſſert the Cauſe both Kingdoms have been ingaged in by Covenant and by Arms, and the Terms wherein they have both agreed, and onely deſire that your Lordſhips would do the like, which is a thing ſo Pious, Juſt and Honorable, that we could do no leſs then offer it again to your Lordſhips ſerious conſideration, and ſhall not
+<pb n="51" facs="tcp:116765:25"/>doubt of your Lordſhips Concurrence with the Parliament of <hi>ENGLAND,</hi> ſeeing thoſe PROPOSITIONS wherein they offer to joyn with your Lordſhips do contain full ſecurity for Religion, For the Kings Majeſty, For the Covenant, For the Treaties, And all other things which in the Judgements of Both Parliaments was neceſſary for the ſetling of a ſafe and well-grounded Peace in both Kingdoms, and preſervation of the Union; Therefore we hope your Lordſhips will judge that it re<g ref="char:EOLhyphen"/>ally anſwers your Lordſhips Deſires: However, We ſhall with all poſſible ſpeed ſend your Lordſhips Anſwer to the Parliament of <hi>England.</hi> As to the other part of your Lordſhips Anſwer to our Paper, wherein we by the command of Both Houſes have engaged the Faith of the kingdom of <hi>England,</hi> that their For<g ref="char:EOLhyphen"/>ces ſhall do no prejudice nor diſturb the Peace or quiet of the kingdom of <hi>Scotland,</hi> we might juſtly have expected an an<g ref="char:EOLhyphen"/>ſwerable Engagement from your Lordſhips for the Armies and Forces of this kingdom, that they ſhould do no prejudice, or diſturb the Peace and quiet of the kingdom of <hi>England;</hi> but it appears far otherwiſe (to our preſent apprehenſion) for although your Lordſhips do expreſs that you will not interrupt the Union betwixt the kingdoms, nor violate any of the Arti<g ref="char:EOLhyphen"/>cles of the Solemn League and Covenant (wherein we moſt willingly and heartily joyn with your Lordſhips) yet your Lord<g ref="char:EOLhyphen"/>ſhips having ſaid in the beginning of your Lordſhips Paper, That you could return no Anſwer to ours of the firſt of <hi>June,</hi> until juſt ſatisfaction were given to your neceſſary Deſires of the 26 of <hi>April,</hi> (which your Lordſhips ſent to the Parliament of <hi>England</hi>) and there being no mention by your Lordſhips of De<g ref="char:EOLhyphen"/>ſires to any other kingdom or perſon whatſoever, and your Lordſhips affirming that you raiſe new Forces for your own ſe<g ref="char:EOLhyphen"/>curities, and for obtaining your Pious and Loyal Deſires: which, ſhould they relate to your Lordſhips Deſires before ex<g ref="char:EOLhyphen"/>preſſed, ſent to the Parliament of <hi>England,</hi> then the words might ſeem to imply, that you raiſed your Forces againſt them; where<g ref="char:EOLhyphen"/>in becauſe your Lordſhips expreſſion is ſomething doubtful, and may raiſe Jealouſies betwixt the Kingdoms: however, we know your Lordſhips cannot intend any ſuch thing, being in ſo ſtrict a Union with them, and it being agreed by the large
+<pb n="52" facs="tcp:116765:26"/>Treaty (confirmed by Act of Parliament in both kingdoms) that neither ſhall denounce War, but three moneths warning is firſt to be given; yet for the avoiding of all miſtakes and miſ<g ref="char:EOLhyphen"/>apprehenſions that may ariſe, we likewiſe Deſire, that your Lordſhips would make a more full and clear Declaration in that point, which may give the Parliament and Kingdom of <hi>England</hi> aſſurance, that the Forces and Kingdom of <hi>Scotland</hi> ſhall do nothing to the prejudice, or to the diſturbance of the Peace and quiet of the kingdom of <hi>England,</hi> and that your Lordſhips would give us an Anſwer to our Paper of the ſixth of this preſent <hi>June,</hi> concerning your Lordſhips Declaring againſt thoſe in <hi>Barwick</hi> and <hi>Carliſle,</hi> and their adherents in this king<g ref="char:EOLhyphen"/>dom, whereunto your Lordſhips are not pleaſed to ſay any thing in the Anſwer we have now received.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> EDVVARD FOX.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A copy of the Paper ſent to the Committee of Eſtates,</hi> 17 Junii, 1648. <hi>concerning their declaring againſt thoſe in</hi> Barwick <hi>and</hi> Carliſle, <hi>and that the Scotiſh Forces ſhall not be employed to the prejudice of</hi> England.</head>
+            <opener>
+               <dateline>Edenburgh, <date>17 Junii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Commiſſioners of the Parliament of <hi>England,</hi> have long waited for a ſatisfactory Anſwer to our many Pa<g ref="char:EOLhyphen"/>pers given to your Lordſhips, and the Honorable the Parliament of <hi>Scotland,</hi> concerning our Demand, That your Lordſhips would declare againſt thoſe Delinquents, Papiſts, &amp; Enemies to the king<g ref="char:EOLhyphen"/>dom and Parliament of <hi>England,</hi> who contrary to the Treaties betwixt both kingdoms, have ſeized and do hold the Towns of <hi>Barwick</hi> and <hi>Carliſle,</hi> and thoſe of this kingdom who aſſiſt them or adhere to them: We have from time to time made known to your Lordſhips, what credible informations we have received of ſeveral ſtores of Arms, Ammunition and Proviſions that have
+<pb n="53" facs="tcp:116765:26"/>gone to them out of this kingdom, which we might juſtly ex<g ref="char:EOLhyphen"/>pect your Lordſhips would not have ſuffered (conſidering the ſtrict Union that is betwixt <hi>England</hi> and <hi>Scotland</hi>) although there had been no particular agreements concerning the aforeſaid Towns: But ſeeing the Commanders in thoſe Towns have ſtill free recourſe to this City, and they are not onely ſupplyed, but much incouraged by the delay of your Lordſhips Reſolutions, which being ſo much to the prejudice of the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the buſineſs of ſo great importance to the Peace of both kingdoms, We ſhould much fail in the diſcharge of our Duties, if we ceaſe not earneſtly to preſs your Lordſhips (which hereby we do) for your Anſwer to our ſeveral Papers concern<g ref="char:EOLhyphen"/>ing <hi>Barwick</hi> and <hi>Carliſle.</hi>
+            </p>
+            <p>We do likewiſe further Deſire, That as we (by the com<g ref="char:EOLhyphen"/>mand of Both Houſes of the Parliament of of <hi>England</hi>) have engaged the Faith of that kingdom, That their Armies and Forces ſhall not do any thing to the prejudice of the kingdom of <hi>Scotland,</hi> or diſturb the peace and quiet thereof; ſo your Lordſhips would make the like Ingagement, That the Armies and Forces of this kingdom, ſhall not do any thing to the pre<g ref="char:EOLhyphen"/>judice or diſturbance of the peace and quiet of the kingdom of <hi>England;</hi> which if your Lordſhips ſhal deny or delay, conſidering how ambiguous your Lordſhips expreſſions were upon this buſi<g ref="char:EOLhyphen"/>neſs, in the Paper of the Parliament of <hi>Scotland</hi> of the 7 of <hi>June</hi> inſtant, it muſt needs increaſe the fears and jealouſies of all honeſt men in both kingdoms, who wiſh and hold themſelves obliged to endeavor the continuing and preſerving the happy Union betwixt them.</p>
+            <closer>
+               <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> EDVVARD FOX.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb n="54" facs="tcp:116765:27"/>
+            <head>
+               <hi>A copy of the Paper ſent to the Committee of Eſtates,</hi> 22 <hi>Junii,</hi> 1648. With the Three Propoſitions to be ſent to the King.</head>
+            <div type="part">
+               <p>BOth Houſes of the Paliament of <hi>England</hi> have command<g ref="char:EOLhyphen"/>ed us to communicate to your Lordſhips their Reſolutions incloſed, concerning the Propoſitions to be ſent to His Majeſty; and we have further in charge to deſire your Lordſhips to pre<g ref="char:EOLhyphen"/>pare ſuch Propoſitions as you ſhall judge fit and neceſſary for the Kingdom of <hi>Scotland,</hi> that they may be ſent to His Majeſty with all convenient ſpeed: We hope your Lordſhips will take this and our former Papers (to which we have yet received no Anſwer) into your ſpeedy conſideration, we being confident your Lord<g ref="char:EOLhyphen"/>ſhips will finde the offers and proceedings of the Parliament of <hi>England</hi> ſo reaſonable and ſo juſt, according to former Agree<g ref="char:EOLhyphen"/>ments betwixt both kingdoms, and the Grounds whereupon both Kingdoms were engaged in this Cauſe; that we ſhall ſpeedi<g ref="char:EOLhyphen"/>ly be inabled by your Lordſhips Anſwer, to give ſuch an account to Both Houſes, as may be a ground of further mutual confi<g ref="char:EOLhyphen"/>dence betwixt both kingdoms; and may diſappoint the hopes and expectations of the Papiſts and Malignants, who endeavor to break that Conjunction, wherein both kingdoms (by the bleſ<g ref="char:EOLhyphen"/>ſing of God) are ſo hapily United, and all of us have entred in<g ref="char:EOLhyphen"/>to a Solemn Covenant to God, and one to another to maintain.</p>
+               <closer>
+                  <signed>By command of the Commiſſioners of the Parliament of <hi>England,</hi> EDVVARD FOX.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>III. PROPOSITIONS.</head>
+               <opener>
+                  <date>30 <hi>Maii,</hi> 1648.</date>
+               </opener>
+               <p n="1">1. VVHereas both Houſes of the Parliament of <hi>England</hi> have been neceſſitated to undertake a War in their juſt and lawful defence, and afterwards both kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="55" facs="tcp:116765:27"/>and <hi>Scotland</hi> joyned in Solemn League and Covenant, were engaged to proſecute the ſame.</p>
+               <p>That by Act of Parliament in each kingdom reſpectively, all Oathes, Declarations and Proclamations, heretofore had, or hereafter to be had, againſt both or either of the Houſes of the Parliament of <hi>England,</hi> the Parliament of the Kingdom of <hi>Scotland,</hi> and the late Covention of Eſtates in <hi>Scotland,</hi> or Committees flowing from the Parliament or Convention in <hi>Scotland,</hi> or their Ordinances and proceedings; or againſt any for adhering unto them, or for doing or executing any Office, place or charge by any Authority derived from them: And all Judgements, Indictments, Outlawries, Attainders and Inquiſi<g ref="char:EOLhyphen"/>tions in any the ſaid Cauſes; and all Grants thereupon made or had, or to be made or had, be declared Null, ſuppreſſed and for<g ref="char:EOLhyphen"/>bidden; and that this be publiquely declared in all pariſh Churches within His Majeſties Dominions, and all other places needful.</p>
+               <p n="2">2. Whereas both Kingdoms are mutually obliged by the ſame Covenant, to bring the Churches of God in the three Kingdoms to the neareſt conjunction and Uniformity in Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip, Diſcipline and Government, according to the Word of God, and the Example of the beſt Reformed Churches.</p>
+               <p>That the Presbyterial Government be confirmed by Act of Parliament, in ſuch maner as both Houſes of Parliament have agreed in ſeveral Ordinances of Parliament, That is to ſay, &amp;c. for the term of Three yeers from the <gap reason="blank" resp="#OXF" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of June, 1648.</p>
+               <p>That it be eſtabliſhed by Act of Parliament, That the Lords and Commons in the Parliament of <hi>England</hi> aſſembled, ſhall during the ſpace of Ten years from the <gap reason="blank" resp="#OXF" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of June, 1648. Arm, Train &amp; Diſcipline, or cauſe to be Armed, Trained &amp; Diſciplined all the Forces of the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> upon <hi>Tweed,</hi> already raiſed both for Sea and Land-Service; and that from time to time during the ſaid ſpace of ten years,
+<pb n="56" facs="tcp:116765:28"/>ſhall Raiſe, Leavy, Arm, Train and Diſcipline, or cauſe to be Raiſed, Leavied, Armed, Trained and Diſciplined, any other Forces for Land and Sea-Service in the Kingdoms, Dominions and places aforeſaid, as in their judgements they ſhall from time to time, during the ſaid ſpace of ten years think fit and ap<g ref="char:EOLhyphen"/>point: And that neither the King, His Heirs or Succeſſors, nor any other, but ſuch as ſhall act by the Authority or Approba<g ref="char:EOLhyphen"/>tion of the ſaid Lords and Commons, ſhall during the ſaid ſpace of Ten years, exerciſe any of the powers aforeſaid.</p>
+               <p>And the like for the kingdom of <hi>Scotland,</hi> if the Eſtates of the Parliament there ſhall think fit.</p>
+               <p>That Moneys be Raiſed and Leavied for the maintenance and uſe of the ſaid Forces for Land-Service, and of the Navy and Forces for Sea-Service, in ſuch ſort, and by ſuch ways and means, as the ſaid Lords and Commons ſhall from time to time, during the ſaid ſpace of ten years, think fit and appoint, and not other<g ref="char:EOLhyphen"/>wiſe; and that all the ſaid Forces both for Land and Sea-Service ſo Raiſed or Leavied, or to be Raiſed or Leavied, and alſo the Admiralty and Navy, ſhall from time to time during the ſaid ſpace of ten years, be Imployed, Managed, Ordered and Diſ<g ref="char:EOLhyphen"/>poſed by the ſaid Lords and Commons, in ſuch ſort and by ſuch ways and means as they ſhall think fit and appoint and not other<g ref="char:EOLhyphen"/>wiſe. And the ſaid Lords and Commons during the ſpace of ten years ſhall have power,</p>
+               <p n="1">1. To ſuppreſs all Forces raiſed or to be raiſed, without Au<g ref="char:EOLhyphen"/>thority and Conſent of the ſaid Lords and Commons, to the diſturbance of the publique peace of the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+               <p n="2">2. To ſuppreſs any Forraign Forces who ſhall invade, or en<g ref="char:EOLhyphen"/>deavor to invade the kingdoms of <hi>England</hi> and <hi>Ireland,</hi> Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> the Iſles of <hi>Guernſey</hi> and <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+               <pb n="57" facs="tcp:116765:28"/>
+               <p n="3">3. To conjoyn ſuch Forces of the kingdom of <hi>England,</hi> with the Forces of the kingdom of <hi>Scotland,</hi> as the ſaid Lords and Commons ſhall from time to time during the ſaid ſpace of ten years, judge fit and neceſſary, to reſiſt all forraign Invaſions, and to ſuppreſs any Forces Raiſed or to be Raiſed againſt or within either of the ſaid kingdoms, to the diſturbance of the publike Peace of the ſaid kingdoms, or any of them, by any Authority of the Great-Seal, or other Warrant whatſoever, without con<g ref="char:EOLhyphen"/>ſent of the ſaid Lords and Commons of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Parliament or the Eſtates of the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> reſpectively; and that no Forces of either kingdom ſhall go into, or continue in the other kingdom, without the advice and deſire of the ſaid Lords and Commons of the Parliament of <hi>England,</hi> and the Parliament of the kingdom of <hi>Scotland,</hi> or ſuch as ſhall be by them appointed for that purpoſe.</p>
+               <p>
+                  <hi>Provided,</hi> That during the ſaid ſpace of ten years, nothing herein before contained, ſhall extend to the taking away of the ordinary legal power of Sheriffs, Juſtices of Peace, Majors, Bay<g ref="char:EOLhyphen"/>liffs, Coroners, Conſtables, Headboroughs, and other Officers of Juſtice, not being Military Officers concerning the Admini<g ref="char:EOLhyphen"/>ſtration of Juſtice; ſo as neither the ſaid Sheriffs, Juſtices of the Peace, Majors, Bayliffs, Coroners, Conſtables, Headboroughs, and other Officers, nor any of them, do Leavy, Conduct, Im<g ref="char:EOLhyphen"/>ploy or Command any Forces whatſoever, by colour or pretence of any Commiſſion of Array, or extraordinary command from His Majeſty, His Heirs or Succeſſors, without the conſent of the ſaid Lords and Commons.</p>
+               <p>And if any perſons during the ſaid ſpace of Ten years ſhall be gathered and aſſembled together in warlike maner, or otherwiſe, to the number of Thirty perſons, and ſhal not forthwith disband or diſperſe themſelves, being required thereto by the ſaid Lords &amp; Commons, or command from them, or any by them, eſpecially authorized for that purpoſe; Then ſuch perſon or perſons not ſo disbanding or diſperſing themſelves ſhall be guilty, and incur the pains of High-Treaſon, being firſt declared guilty of ſuch offence
+<pb n="58" facs="tcp:116765:29"/>by the ſaid Lords and Commons, Any Commiſſion under the Great Seal, or other warrant to the contrary notwithſtanding. And he or they that ſhall offend herein, to be incapable of any pardon from His Majeſty, His Heirs or Succeſſors, and their Eſtates ſhall be diſpoſed as the ſaid Lords and Commons ſhall think fit, and not otherwiſe.</p>
+               <p>Provided, That the City of <hi>London</hi> ſhall have and injoy all their Rights, Liberties and Franchiſes, Cuſtoms and Uſages in the Raiſing and Imploying the Forces of that City for the de<g ref="char:EOLhyphen"/>fence thereof, in as full and ample maner, to all intents and pur<g ref="char:EOLhyphen"/>poſes, as they have or might have uſed or injoyed the ſame at any time before the making of the ſaid Act or Propoſition.</p>
+               <p>And after Your Majeſties aſſent given to the three Propoſi<g ref="char:EOLhyphen"/>tions now tendred to Your Majeſty, and to ſuch Acts of Parlia<g ref="char:EOLhyphen"/>ment as ſhall be offered by Both Houſes for confirmation there<g ref="char:EOLhyphen"/>of, Then Both Houſes of Parliament will Treat with Your Ma<g ref="char:EOLhyphen"/>jeſty, concerning the future ſettlement of the Government of the Church, the ſettlement of the <hi>Militia,</hi> and upon the reſt of the Propoſitions formerly tendred to Your Majeſty at <hi>Ham<g ref="char:EOLhyphen"/>pton Court.</hi>
+               </p>
+               <p>That the Houſes of the Parliament of <hi>England</hi> do deſire, That ſuch Propoſitions as ſhall be fit and neceſſary for the king<g ref="char:EOLhyphen"/>dom of <hi>Scotland,</hi> may be prepared to be ſent to His Majeſty with all convenient ſpeed.</p>
+            </div>
+         </div>
+         <div type="memorandum">
+            <head>
+               <hi>A Paper from the Committee of Eſtates of</hi> Scotland, <hi>of the</hi> 8. <hi>of July, to the Commiſſioners of</hi> England, <hi>in anſwer to ſome of their former Papers.</hi>
+            </head>
+            <opener>
+               <dateline>At Endenburgh, <date>the 8. of July, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE the Committee of Eſtates of the Parliament of the kingdom of <hi>Scotland,</hi> do return this anſwer to your Lordſhips Papers of the 17. and 22. of June:</p>
+            <pb n="59" facs="tcp:116765:29"/>
+            <p>That although our Commiſſioners at <hi>London</hi> did often, for ſome Moneths together (after the return of our Army out of <hi>England</hi>) attend without any anſwer to their Papers, and the juſt Deſires of this kingdom, and at ſeveral times for many days could obtain no hearing; Yet the Parliament, notwithſtanding of their important buſineſs, and that this laſt Seſſion was very ſhort, did always, immediately after the receipt of your Lord<g ref="char:EOLhyphen"/>ſhips Letters and Papers read them, and returned ſuch anſwers as they conceived ought to ſatisfie, and particularly to your De<g ref="char:EOLhyphen"/>ſires concerning <hi>Barwick</hi> and <hi>Carliſle;</hi> as likewiſe to that In<g ref="char:EOLhyphen"/>gagement which you were pleaſed to offer upon the advance of the Army under the command of the Lord <hi>Fairfax</hi> into the North of <hi>England</hi> towards our border, which therefore we ſhall not here repeat.</p>
+            <p>The Parliament alſo, upon conſideration of the great dangers threatning Religion. His Majeſties Perſon and Authority, yea Monarchy it ſelf, and the peace and happineſs of theſe kingdoms, ſtrictly united by Covenant, Treaties, and ſo many near relati<g ref="char:EOLhyphen"/>ons, Did upon the 26 of April laſt, ſend ſuch Demands to the Houſes of the Parliament of <hi>England,</hi> as they conceived to be juſt and neceſſary: To which they did upon the 15. day of May return a very general anſwer, relating to a more particular ſatiſ<g ref="char:EOLhyphen"/>faction, to be expected from your Lordſhips. And the Com<g ref="char:EOLhyphen"/>mittee of Eſtates did on the 23. day of May laſt deſire to know, if your Lordſhips had received any further Inſtructions for ſatiſ<g ref="char:EOLhyphen"/>fying the Deſires of this kingdom: To which your Lordſhips anſwered, That as yet you had not received any; neither have we ſince that time heard any thing concerning the ſaid Deſires from your Lordſhips: Which we cannot but look upon, as a great contempt and neglect of this kingdom, and an evidence of no great forwardneſs nor inclination towards a peace or ſet<g ref="char:EOLhyphen"/>tlement, or Reſolution to entertain that Amity and good cor<g ref="char:EOLhyphen"/>reſpondense betwixt the Nations, which we by Treaties, Meſ<g ref="char:EOLhyphen"/>ſages and all imaginable means have ſtill ſtudied to preſerve: And had a ſatisfactory anſwer been returned to theſe our neceſ<g ref="char:EOLhyphen"/>ſary Deſires, all the Inconveniences which hereafter may inſue, would probably have been prevented, which we have ſtill ſince
+<pb n="60" facs="tcp:116765:30"/>that time patiently expected, and acted nothing as to an In<g ref="char:EOLhyphen"/>gagement, in hopes thereof: But finding the dangers to all that is deareſt to us ſtill increaſing, No ſatisfaction, nor ſo much as an anſwer offered to theſe our juſt and neceſſary Deſires; No ſecurity to Religion, but rather a greater danger thereunto from the Propoſitions now communicated unto us; No hope of Safety or Freedom thereby to His Majeſties Perſon, and as little of Freedom to the Honorable Houſes of the Parliament, Eaſe to the oppreſſed Subjects of <hi>England,</hi> or Security to either Na<g ref="char:EOLhyphen"/>tion. We have therefore reſolved to purſue our duties in order to all theſe, as Chriſtians, as Subjects, and as Brethren joyn'd together in Covenant, upon the grounds contained in the inclo<g ref="char:EOLhyphen"/>ſed Declaration; which we deſire your Lordſhips would be pleaſed to communicate to the Honorable Houſes.</p>
+            <closer>
+               <signed>By command of the Committee of the Eſtates of Parliament, ARCH: PRIMEROSE, Cler.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Vnto this Paper the Engliſh Commiſsioners re<g ref="char:EOLhyphen"/>turned no Anſwer, in regard the Scotiſh Ar<g ref="char:EOLhyphen"/>my had then invaded</hi> England.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Commiſſioners of both Houſes of the Parliament of</hi> England, <hi>ſent to the Committee of Eſtates of the Kingdom of</hi> Scotland, <hi>for a ſafe Paſs to return into</hi> England, <hi>which they granted, and therewith ſent a Letter to the Commiſſioners; a Copy whereof is as followeth:</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Am commanded by the Committee of Eſtates, in Anſwer to your Lordſhips Deſires of the 19. of this inſtant <hi>July,</hi> to return to your Lordſhips from them the incloſed Paſs: And
+<pb n="61" facs="tcp:116765:30"/>when your Lordſhips ſhall be pleaſed to acquaint them with the time of your parting from hence, they will be ready, if you in<g ref="char:EOLhyphen"/>ſiſt thereupon, to appoint a competent Convoy to attend your Lordſhips for ſo much of the way as you ſhall think neceſſary; your Lordſhips engaging the Publique Faith of the Kingdom of <hi>England</hi> for their ſafe return: I am likewiſe commanded by the Committee to ſhew your Lordſhips, That by their Orders the Towns of <hi>Barwick</hi> and <hi>Carliſle,</hi> are for the Peace of both Kingdoms ſecured from the Sectaries; and that juſt ſatisfaction being given to the neceſſary Deſires of this Kingdom, not on<g ref="char:EOLhyphen"/>ly theſe Towns ſhall be put in the condition they were in for<g ref="char:EOLhyphen"/>merly, and their Fortifications ſlighted, but likewiſe all the Forces of the kingdom of <hi>Scotland</hi> now in <hi>England,</hi> ſhall im<g ref="char:EOLhyphen"/>mediately be recalled and return; And that they will ſtill invio<g ref="char:EOLhyphen"/>lably obſerve on their parts the Union and brotherly Correſpon<g ref="char:EOLhyphen"/>dence betwixt the kingdoms.</p>
+            <p>The Committee having employed one Mr. <hi>Thomas Hamilton</hi> Gentleman, about a moneth ago to <hi>London</hi> as a publique Ser<g ref="char:EOLhyphen"/>vant of theirs, they have commanded me to ſhew your Lord<g ref="char:EOLhyphen"/>ſhips their Deſire, that no let nor hindrance be offered to him in his return, which would be contrary to the Law of Nations, and their expectations: I ſhall adde nothing from my ſelf, but that I am,</p>
+            <closer>
+               <dateline>
+                  <hi>Eden.</hi> 
+                  <date>laſt <hi>July,</hi> 1648.</date>
+               </dateline>
+               <salute>My Lords,</salute> 
+               <signed>Your Lordſhips moſt hum<g ref="char:EOLhyphen"/>ble Servant, <hi>Crayford</hi> and <hi>Lindſey.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Anſwer of the Commiſſioners to the Letter from the Lord Treaſurer of the laſt of</hi> July, 1648.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>VVE have received yours of the laſt of <hi>July,</hi> and to that part thereof which concerns publique buſineſs, we cannot give your Lordſhip any Anſwer, but have thought good to let your
+<pb n="62" facs="tcp:116765:31"/>Lordſhip underſtand, That an Order is come to our hands, Da<g ref="char:EOLhyphen"/>ted the 22. of <hi>July,</hi> 1648. by which we are recalled, and there<g ref="char:EOLhyphen"/>by our powers of any further Tranſaction of buſineſs with your Lordſhip, otherwiſe then in order to our return, we con<g ref="char:EOLhyphen"/>ceive are Determined; as to that part wherein your Lordſhip hath been pleaſed to manifeſt your care for our ſafe Paſs and Convoy, we return your Lordſhip thanks. We are,</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> 
+                  <date>1 <hi>Auguſti,</hi> 1648.</date>
+               </dateline>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt hum<g ref="char:EOLhyphen"/>ble Servants, <list>
+                     <item>
+                        <hi>C: Notingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Bryan Stapleton.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Goodwyn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Birch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116765:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
